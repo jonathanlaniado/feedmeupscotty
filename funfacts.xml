@@ -1,64 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://en.wikipedia.org/wiki/Main_Page</id>
-    <title>Wikipedia — did you know?</title>
-    <updated>2022-06-04T17:38:17.570Z</updated>
+    <id>https://www.raycast.com/store</id>
+    <title>Raycast Store</title>
+    <updated>2022-06-04T18:08:24.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
+    <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
     <entry>
-        <title type="html"><![CDATA[Celmisia major]]></title>
-        <id>https://en.wikipedia.org/wiki/Celmisia_major</id>
-        <link href="https://en.wikipedia.org/wiki/Celmisia_major"/>
-        <updated>2022-06-04T17:38:13.681Z</updated>
-        <content type="html"><![CDATA[... that the two varieties of <i><b><a href="/wiki/Celmisia_major" title="Celmisia major">Celmisia major</a></b></i> <i>(one variety pictured)</i> are "certainly not" closely related?]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.raycast.com/gebeto/translate</id>
+        <link href="https://www.raycast.com/gebeto/translate"/>
+        <updated>2022-06-04T18:08:23.851Z</updated>
+        <content type="html"><![CDATA[Simple translation using Google Translate]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kim E. Nielsen]]></title>
-        <id>https://en.wikipedia.org/wiki/Kim_E._Nielsen</id>
-        <link href="https://en.wikipedia.org/wiki/Kim_E._Nielsen"/>
-        <updated>2022-06-04T17:38:13.683Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Kim_E._Nielsen" title="Kim E. Nielsen">Kim E. Nielsen</a></b> trained as a historian of women and politics, and came to <a href="/wiki/Disability_studies" title="Disability studies">disability history and studies</a> via her discovery of <a href="/wiki/Helen_Keller" title="Helen Keller">Helen Keller</a>'s political life?]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.raycast.com/nhojb/brew</id>
+        <link href="https://www.raycast.com/nhojb/brew"/>
+        <updated>2022-06-04T18:08:23.852Z</updated>
+        <content type="html"><![CDATA[Search and install Homebrew formulae]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the first recording]]></title>
-        <id>https://en.wikipedia.org/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56_discography</id>
-        <link href="https://en.wikipedia.org/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56_discography"/>
-        <updated>2022-06-04T17:38:13.683Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56_discography" title="Ich will den Kreuzstab gerne tragen, BWV 56 discography">the first recording</a></b> of Bach's <a href="/wiki/Ich_will_den_Kreuzstab_gerne_tragen,_BWV_56" title="Ich will den Kreuzstab gerne tragen, BWV 56"><i>Kreuzstab</i> cantata</a> was a 1939 Dutch live broadcast sung by <a href="/wiki/Mack_Harrell" title="Mack Harrell">Mack Harrell</a>, 25 years before the 1964 German recording by his protégé <a href="/wiki/Barry_McDaniel" title="Barry McDaniel">Barry McDaniel</a>?]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.raycast.com/tumtum/apple-notes</id>
+        <link href="https://www.raycast.com/tumtum/apple-notes"/>
+        <updated>2022-06-04T18:08:23.854Z</updated>
+        <content type="html"><![CDATA[Search and create notes within the Apple Notes application.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Johnny Hatley]]></title>
-        <id>https://en.wikipedia.org/wiki/Johnny_Hatley</id>
-        <link href="https://en.wikipedia.org/wiki/Johnny_Hatley"/>
-        <updated>2022-06-04T17:38:13.684Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Johnny_Hatley" title="Johnny Hatley">Johnny Hatley</a></b> quit professional <a href="/wiki/American_football" title="American football">football</a> to become a full-time <a href="/wiki/Rodeo" title="Rodeo">rodeo</a> competitor?]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.raycast.com/thomas/spotify-controls</id>
+        <link href="https://www.raycast.com/thomas/spotify-controls"/>
+        <updated>2022-06-04T18:08:23.854Z</updated>
+        <content type="html"><![CDATA[Control the Spotify app for macOS with your keyboard.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UB.109T]]></title>
-        <id>https://en.wikipedia.org/wiki/UB.109T</id>
-        <link href="https://en.wikipedia.org/wiki/UB.109T"/>
-        <updated>2022-06-04T17:38:13.685Z</updated>
-        <content type="html"><![CDATA[... that development of the British <b><a href="/wiki/UB.109T" title="UB.109T">UB.109T</a></b> <a href="/wiki/Cruise_missile" title="Cruise missile">cruise missile</a> was given "super-priority" in 1951 to ward off an expected attack by the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, only to be cancelled after the attack never came?]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.raycast.com/tonka3000/youtube</id>
+        <link href="https://www.raycast.com/tonka3000/youtube"/>
+        <updated>2022-06-04T18:08:23.855Z</updated>
+        <content type="html"><![CDATA[Search Videos, Playlists and more]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helen Hadsell]]></title>
-        <id>https://en.wikipedia.org/wiki/Helen_Hadsell</id>
-        <link href="https://en.wikipedia.org/wiki/Helen_Hadsell"/>
-        <updated>2022-06-04T17:38:13.685Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Metaphysics" title="Metaphysics">metaphysicist</a> <b><a href="/wiki/Helen_Hadsell" title="Helen Hadsell">Helen Hadsell</a></b> claimed that she won things she wanted by projecting energy?]]></content>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.raycast.com/mattisssa/spotify-player</id>
+        <link href="https://www.raycast.com/mattisssa/spotify-player"/>
+        <updated>2022-06-04T18:08:23.855Z</updated>
+        <content type="html"><![CDATA[Search and Play Spotify music from the Raycast, control your library with convinient commands like Like]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chabacano metro station]]></title>
-        <id>https://en.wikipedia.org/wiki/Chabacano_metro_station</id>
-        <link href="https://en.wikipedia.org/wiki/Chabacano_metro_station"/>
-        <updated>2022-06-04T17:38:13.687Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Chabacano_metro_station" title="Chabacano metro station">Chabacano metro station</a></b> has a composition named after it and it served as a film location for the 1990 film <i><a href="/wiki/Total_Recall_(1990_film)" title="Total Recall (1990 film)">Total Recall</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.raycast.com/rolandleth/kill-process</id>
+        <link href="https://www.raycast.com/rolandleth/kill-process"/>
+        <updated>2022-06-04T18:08:23.856Z</updated>
+        <content type="html"><![CDATA[Lists all running processes, ordered by CPU usage and allows killing one]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[William Bracewell]]></title>
-        <id>https://en.wikipedia.org/wiki/William_Bracewell</id>
-        <link href="https://en.wikipedia.org/wiki/William_Bracewell"/>
-        <updated>2022-06-04T17:38:13.689Z</updated>
-        <content type="html"><![CDATA[... that ballet dancer <b><a href="/wiki/William_Bracewell" title="William Bracewell">William Bracewell</a></b> has portrayed <a href="/wiki/Louis_XIV" title="Louis XIV">Louis&nbsp;XIV</a>, <a href="/wiki/Romeo_and_Juliet_(MacMillan)" title="Romeo and Juliet (MacMillan)">Romeo</a>, a salamander, and a caterpillar?]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.raycast.com/mblode/google-search</id>
+        <link href="https://www.raycast.com/mblode/google-search"/>
+        <updated>2022-06-04T18:08:23.856Z</updated>
+        <content type="html"><![CDATA[Google search with autosuggestions]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.raycast.com/fedevitaledev/music</id>
+        <link href="https://www.raycast.com/fedevitaledev/music"/>
+        <updated>2022-06-04T18:08:23.859Z</updated>
+        <content type="html"><![CDATA[Control the Apple Music app with your keyboard.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.raycast.com/MarkusLanger/vscode-project-manager</id>
+        <link href="https://www.raycast.com/MarkusLanger/vscode-project-manager"/>
+        <updated>2022-06-04T18:08:23.860Z</updated>
+        <content type="html"><![CDATA[Search and open projects from Visual Studio Code Project Manager]]></content>
     </entry>
 </feed>
