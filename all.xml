@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-04T18:28:25.813Z</updated>
+    <updated>2022-06-04T18:31:52.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/gebeto/translate</id>
-        <link href="https://www.raycast.com/gebeto/translate"/>
-        <updated>2022-06-04T18:08:23.851Z</updated>
+        <title type="html"><![CDATA[Google Translate (Raycast Store)]]></title>
+        <id>raycast://extensions/gebeto/translate?source=webstore</id>
+        <link href="raycast://extensions/gebeto/translate?source=webstore"/>
+        <updated>2022-06-04T18:31:52.141Z</updated>
         <content type="html"><![CDATA[Simple translation using Google Translate]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/nhojb/brew</id>
-        <link href="https://www.raycast.com/nhojb/brew"/>
-        <updated>2022-06-04T18:08:23.852Z</updated>
+        <title type="html"><![CDATA[Brew (Raycast Store)]]></title>
+        <id>raycast://extensions/nhojb/brew?source=webstore</id>
+        <link href="raycast://extensions/nhojb/brew?source=webstore"/>
+        <updated>2022-06-04T18:31:52.143Z</updated>
         <content type="html"><![CDATA[Search and install Homebrew formulae]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/tumtum/apple-notes</id>
-        <link href="https://www.raycast.com/tumtum/apple-notes"/>
-        <updated>2022-06-04T18:08:23.854Z</updated>
+        <title type="html"><![CDATA[Apple Notes (Raycast Store)]]></title>
+        <id>raycast://extensions/tumtum/apple-notes?source=webstore</id>
+        <link href="raycast://extensions/tumtum/apple-notes?source=webstore"/>
+        <updated>2022-06-04T18:31:52.144Z</updated>
         <content type="html"><![CDATA[Search and create notes within the Apple Notes application.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/thomas/spotify-controls</id>
-        <link href="https://www.raycast.com/thomas/spotify-controls"/>
-        <updated>2022-06-04T18:08:23.854Z</updated>
+        <title type="html"><![CDATA[Spotify Controls (Raycast Store)]]></title>
+        <id>raycast://extensions/thomas/spotify-controls?source=webstore</id>
+        <link href="raycast://extensions/thomas/spotify-controls?source=webstore"/>
+        <updated>2022-06-04T18:31:52.146Z</updated>
         <content type="html"><![CDATA[Control the Spotify app for macOS with your keyboard.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/tonka3000/youtube</id>
-        <link href="https://www.raycast.com/tonka3000/youtube"/>
-        <updated>2022-06-04T18:08:23.855Z</updated>
+        <title type="html"><![CDATA[YouTube (Raycast Store)]]></title>
+        <id>raycast://extensions/tonka3000/youtube?source=webstore</id>
+        <link href="raycast://extensions/tonka3000/youtube?source=webstore"/>
+        <updated>2022-06-04T18:31:52.150Z</updated>
         <content type="html"><![CDATA[Search Videos, Playlists and more]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/mattisssa/spotify-player</id>
-        <link href="https://www.raycast.com/mattisssa/spotify-player"/>
-        <updated>2022-06-04T18:08:23.855Z</updated>
+        <title type="html"><![CDATA[Spotify Player (Raycast Store)]]></title>
+        <id>raycast://extensions/mattisssa/spotify-player?source=webstore</id>
+        <link href="raycast://extensions/mattisssa/spotify-player?source=webstore"/>
+        <updated>2022-06-04T18:31:52.152Z</updated>
         <content type="html"><![CDATA[Search and Play Spotify music from the Raycast, control your library with convinient commands like Like]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/rolandleth/kill-process</id>
-        <link href="https://www.raycast.com/rolandleth/kill-process"/>
-        <updated>2022-06-04T18:08:23.856Z</updated>
+        <title type="html"><![CDATA[Kill Process (Raycast Store)]]></title>
+        <id>raycast://extensions/rolandleth/kill-process?source=webstore</id>
+        <link href="raycast://extensions/rolandleth/kill-process?source=webstore"/>
+        <updated>2022-06-04T18:31:52.174Z</updated>
         <content type="html"><![CDATA[Lists all running processes, ordered by CPU usage and allows killing one]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/mblode/google-search</id>
-        <link href="https://www.raycast.com/mblode/google-search"/>
-        <updated>2022-06-04T18:08:23.856Z</updated>
+        <title type="html"><![CDATA[Google Search (Raycast Store)]]></title>
+        <id>raycast://extensions/mblode/google-search?source=webstore</id>
+        <link href="raycast://extensions/mblode/google-search?source=webstore"/>
+        <updated>2022-06-04T18:31:52.176Z</updated>
         <content type="html"><![CDATA[Google search with autosuggestions]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/fedevitaledev/music</id>
-        <link href="https://www.raycast.com/fedevitaledev/music"/>
-        <updated>2022-06-04T18:08:23.859Z</updated>
+        <title type="html"><![CDATA[Music (Raycast Store)]]></title>
+        <id>raycast://extensions/fedevitaledev/music?source=webstore</id>
+        <link href="raycast://extensions/fedevitaledev/music?source=webstore"/>
+        <updated>2022-06-04T18:31:52.177Z</updated>
         <content type="html"><![CDATA[Control the Apple Music app with your keyboard.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install (Raycast Store)]]></title>
-        <id>https://www.raycast.com/MarkusLanger/vscode-project-manager</id>
-        <link href="https://www.raycast.com/MarkusLanger/vscode-project-manager"/>
-        <updated>2022-06-04T18:08:23.860Z</updated>
+        <title type="html"><![CDATA[Visual Studio Code - Project Manager (Raycast Store)]]></title>
+        <id>raycast://extensions/MarkusLanger/vscode-project-manager?source=webstore</id>
+        <link href="raycast://extensions/MarkusLanger/vscode-project-manager?source=webstore"/>
+        <updated>2022-06-04T18:31:52.178Z</updated>
         <content type="html"><![CDATA[Search and open projects from Visual Studio Code Project Manager]]></content>
     </entry>
 </feed>
