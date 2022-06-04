@@ -1,4 +1,4 @@
-[funfacts]
+[raycaststore]
 title = "Raycast Store"
 url = "https://www.raycast.com/store"
 entrySelector = "div.explore.grid > div"
