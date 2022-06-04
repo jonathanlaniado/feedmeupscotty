@@ -2,6 +2,6 @@
 title = "Raycast Store"
 url = "https://www.raycast.com/store"
 entrySelector = "div.explore.grid > div"
-titleSelector = "div > span > a"
-linkSelector = "div > a"
+titleSelector = "div > a"
+linkSelector = "div > span > a"
 contentSelector = "p"
