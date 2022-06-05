@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/store</id>
     <title>Raycast Store</title>
-    <updated>2022-06-05T22:10:07.494Z</updated>
+    <updated>2022-06-05T23:10:55.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[Search Videos, Playlists and more]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kill Process]]></title>
-        <id>raycast://extensions/rolandleth/kill-process?source=webstore</id>
-        <link href="raycast://extensions/rolandleth/kill-process?source=webstore"/>
-        <updated>2022-06-04T18:31:52.174Z</updated>
-        <content type="html"><![CDATA[Lists all running processes, ordered by CPU usage and allows killing one]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spotify Player]]></title>
         <id>raycast://extensions/mattisssa/spotify-player?source=webstore</id>
         <link href="raycast://extensions/mattisssa/spotify-player?source=webstore"/>
         <updated>2022-06-04T18:31:52.152Z</updated>
         <content type="html"><![CDATA[Search and Play Spotify music from the Raycast, control your library with convinient commands like Like]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kill Process]]></title>
+        <id>raycast://extensions/rolandleth/kill-process?source=webstore</id>
+        <link href="raycast://extensions/rolandleth/kill-process?source=webstore"/>
+        <updated>2022-06-04T18:31:52.174Z</updated>
+        <content type="html"><![CDATA[Lists all running processes, ordered by CPU usage and allows killing one]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Search]]></title>
