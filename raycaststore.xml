@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.raycast.com/store</id>
+    <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-06T12:22:48.212Z</updated>
+    <updated>2022-06-06T13:07:46.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
     <entry>
-        <title type="html"><![CDATA[Google Translate]]></title>
-        <id>raycast://extensions/gebeto/translate?source=webstore</id>
-        <link href="raycast://extensions/gebeto/translate?source=webstore"/>
-        <updated>2022-06-04T18:31:52.141Z</updated>
-        <content type="html"><![CDATA[Simple translation using Google Translate]]></content>
+        <title type="html"><![CDATA[SM.MS]]></title>
+        <id>raycast://extensions/koinzhang/sm-ms?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/sm-ms?source=webstore"/>
+        <updated>2022-06-06T13:07:46.002Z</updated>
+        <content type="html"><![CDATA[SM.MS image hosting service to upload and share images.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brew]]></title>
-        <id>raycast://extensions/nhojb/brew?source=webstore</id>
-        <link href="raycast://extensions/nhojb/brew?source=webstore"/>
-        <updated>2022-06-04T18:31:52.143Z</updated>
-        <content type="html"><![CDATA[Search and install Homebrew formulae]]></content>
+        <title type="html"><![CDATA[Avatar]]></title>
+        <id>raycast://extensions/koinzhang/avatar?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/avatar?source=webstore"/>
+        <updated>2022-06-06T13:07:46.020Z</updated>
+        <content type="html"><![CDATA[An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Notes]]></title>
-        <id>raycast://extensions/tumtum/apple-notes?source=webstore</id>
-        <link href="raycast://extensions/tumtum/apple-notes?source=webstore"/>
-        <updated>2022-06-04T18:31:52.144Z</updated>
-        <content type="html"><![CDATA[Search and create notes within the Apple Notes application.]]></content>
+        <title type="html"><![CDATA[Upcoming Holidays]]></title>
+        <id>raycast://extensions/rodrigouroz/upcoming-holidays?source=webstore</id>
+        <link href="raycast://extensions/rodrigouroz/upcoming-holidays?source=webstore"/>
+        <updated>2022-06-06T13:07:46.020Z</updated>
+        <content type="html"><![CDATA[Show upcoming holidays for a country]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify Controls]]></title>
-        <id>raycast://extensions/thomas/spotify-controls?source=webstore</id>
-        <link href="raycast://extensions/thomas/spotify-controls?source=webstore"/>
-        <updated>2022-06-04T18:31:52.146Z</updated>
-        <content type="html"><![CDATA[Control the Spotify app for macOS with your keyboard.]]></content>
+        <title type="html"><![CDATA[QuickFile]]></title>
+        <id>raycast://extensions/danielroe/quickfile?source=webstore</id>
+        <link href="raycast://extensions/danielroe/quickfile?source=webstore"/>
+        <updated>2022-06-06T13:07:46.020Z</updated>
+        <content type="html"><![CDATA[Access your QuickFile account balances.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube]]></title>
-        <id>raycast://extensions/tonka3000/youtube?source=webstore</id>
-        <link href="raycast://extensions/tonka3000/youtube?source=webstore"/>
-        <updated>2022-06-04T18:31:52.150Z</updated>
-        <content type="html"><![CDATA[Search Videos, Playlists and more]]></content>
+        <title type="html"><![CDATA[Fip]]></title>
+        <id>raycast://extensions/louison/fip?source=webstore</id>
+        <link href="raycast://extensions/louison/fip?source=webstore"/>
+        <updated>2022-06-06T13:07:46.020Z</updated>
+        <content type="html"><![CDATA[Start and explore the fip radio directly from Raycast]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kill Process]]></title>
-        <id>raycast://extensions/rolandleth/kill-process?source=webstore</id>
-        <link href="raycast://extensions/rolandleth/kill-process?source=webstore"/>
-        <updated>2022-06-04T18:31:52.174Z</updated>
-        <content type="html"><![CDATA[Lists all running processes, ordered by CPU usage and allows killing one]]></content>
+        <title type="html"><![CDATA[NBA Viewer]]></title>
+        <id>raycast://extensions/AbhinavPalacharla/nba-viewer?source=webstore</id>
+        <link href="raycast://extensions/AbhinavPalacharla/nba-viewer?source=webstore"/>
+        <updated>2022-06-06T13:07:46.025Z</updated>
+        <content type="html"><![CDATA[View upcoming NBA games and NBA team standings]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify Player]]></title>
-        <id>raycast://extensions/mattisssa/spotify-player?source=webstore</id>
-        <link href="raycast://extensions/mattisssa/spotify-player?source=webstore"/>
-        <updated>2022-06-04T18:31:52.152Z</updated>
-        <content type="html"><![CDATA[Search and Play Spotify music from the Raycast, control your library with convinient commands like Like]]></content>
+        <title type="html"><![CDATA[Tapo Smart Devices]]></title>
+        <id>raycast://extensions/timrogers/raycast-tapo-smart-devices?source=webstore</id>
+        <link href="raycast://extensions/timrogers/raycast-tapo-smart-devices?source=webstore"/>
+        <updated>2022-06-06T13:07:46.030Z</updated>
+        <content type="html"><![CDATA[Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Search]]></title>
-        <id>raycast://extensions/mblode/google-search?source=webstore</id>
-        <link href="raycast://extensions/mblode/google-search?source=webstore"/>
-        <updated>2022-06-04T18:31:52.176Z</updated>
-        <content type="html"><![CDATA[Google search with autosuggestions]]></content>
+        <title type="html"><![CDATA[World Clock]]></title>
+        <id>raycast://extensions/koinzhang/world-clock?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/world-clock?source=webstore"/>
+        <updated>2022-06-06T13:07:46.032Z</updated>
+        <content type="html"><![CDATA[Query the current time of a region, ip or domain.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Music]]></title>
-        <id>raycast://extensions/fedevitaledev/music?source=webstore</id>
-        <link href="raycast://extensions/fedevitaledev/music?source=webstore"/>
-        <updated>2022-06-04T18:31:52.177Z</updated>
-        <content type="html"><![CDATA[Control the Apple Music app with your keyboard.]]></content>
+        <title type="html"><![CDATA[Apple Maps Search]]></title>
+        <id>raycast://extensions/djpowers/apple-maps-search?source=webstore</id>
+        <link href="raycast://extensions/djpowers/apple-maps-search?source=webstore"/>
+        <updated>2022-06-06T13:07:46.033Z</updated>
+        <content type="html"><![CDATA[Quickly open Apple Maps directions, for example from your current location to your home.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Code - Project Manager]]></title>
-        <id>raycast://extensions/MarkusLanger/vscode-project-manager?source=webstore</id>
-        <link href="raycast://extensions/MarkusLanger/vscode-project-manager?source=webstore"/>
-        <updated>2022-06-04T18:31:52.178Z</updated>
-        <content type="html"><![CDATA[Search and open projects from Visual Studio Code Project Manager]]></content>
+        <title type="html"><![CDATA[Yandex Music]]></title>
+        <id>raycast://extensions/alexstrnik/yandex-music?source=webstore</id>
+        <link href="raycast://extensions/alexstrnik/yandex-music?source=webstore"/>
+        <updated>2022-06-06T13:07:46.044Z</updated>
+        <content type="html"><![CDATA[Control the Yandex Music tab in browser with your keyboard.]]></content>
     </entry>
 </feed>
