@@ -1,6 +1,6 @@
 [raycaststore]
 title = "Raycast Store"
-url = "https://www.raycast.com/store"
+url = "https://www.raycast.com/recently-added"
 entrySelector = "div.explore.grid > div"
 titleSelector = "div > a"
 linkSelector = "div > span > a"
