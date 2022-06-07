@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-07T05:09:52.017Z</updated>
+    <updated>2022-06-07T06:14:03.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Session - Pomodoro Focus Timer (Raycast Store)]]></title>
+        <id>raycast://extensions/jameslyons/session?source=webstore</id>
+        <link href="raycast://extensions/jameslyons/session?source=webstore"/>
+        <updated>2022-06-07T06:14:02.249Z</updated>
+        <content type="html"><![CDATA[Control Session pomodoro timers. Requires v2.1.6 or later installed: www.stayinsession.com]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM.MS (Raycast Store)]]></title>
         <id>raycast://extensions/koinzhang/sm-ms?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/djpowers/apple-maps-search?source=webstore"/>
         <updated>2022-06-06T13:07:46.033Z</updated>
         <content type="html"><![CDATA[Quickly open Apple Maps directions, for example from your current location to your home.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex Music (Raycast Store)]]></title>
-        <id>raycast://extensions/alexstrnik/yandex-music?source=webstore</id>
-        <link href="raycast://extensions/alexstrnik/yandex-music?source=webstore"/>
-        <updated>2022-06-06T13:07:46.044Z</updated>
-        <content type="html"><![CDATA[Control the Yandex Music tab in browser with your keyboard.]]></content>
     </entry>
 </feed>
