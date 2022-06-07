@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-07T10:13:51.032Z</updated>
+    <updated>2022-06-07T11:10:31.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Amphetamine (Raycast Store)]]></title>
+        <id>raycast://extensions/gstvds/amphetamine?source=webstore</id>
+        <link href="raycast://extensions/gstvds/amphetamine?source=webstore"/>
+        <updated>2022-06-07T11:10:30.340Z</updated>
+        <content type="html"><![CDATA[Controls Amphetamine using Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Session - Pomodoro Focus Timer (Raycast Store)]]></title>
         <id>raycast://extensions/jameslyons/session?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/koinzhang/world-clock?source=webstore"/>
         <updated>2022-06-06T13:07:46.032Z</updated>
         <content type="html"><![CDATA[Query the current time of a region, ip or domain.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Maps Search (Raycast Store)]]></title>
-        <id>raycast://extensions/djpowers/apple-maps-search?source=webstore</id>
-        <link href="raycast://extensions/djpowers/apple-maps-search?source=webstore"/>
-        <updated>2022-06-06T13:07:46.033Z</updated>
-        <content type="html"><![CDATA[Quickly open Apple Maps directions, for example from your current location to your home.]]></content>
     </entry>
 </feed>
