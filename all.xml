@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T09:11:20.819Z</updated>
+    <updated>2022-06-08T10:12:35.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Airplane (Raycast Store)]]></title>
+        <id>raycast://extensions/pradeepb28/airplane?source=webstore</id>
+        <link href="raycast://extensions/pradeepb28/airplane?source=webstore"/>
+        <updated>2022-06-08T10:12:34.807Z</updated>
+        <content type="html"><![CDATA[Just like on iPhone, turn off the wireless features on your macOS anytime.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chess.com (Raycast Store)]]></title>
         <id>raycast://extensions/joshfarrant/chess-com?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/AbhinavPalacharla/nba-viewer?source=webstore"/>
         <updated>2022-06-06T13:07:46.025Z</updated>
         <content type="html"><![CDATA[View upcoming NBA games and NBA team standings]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tapo Smart Devices (Raycast Store)]]></title>
-        <id>raycast://extensions/timrogers/raycast-tapo-smart-devices?source=webstore</id>
-        <link href="raycast://extensions/timrogers/raycast-tapo-smart-devices?source=webstore"/>
-        <updated>2022-06-06T13:07:46.030Z</updated>
-        <content type="html"><![CDATA[Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes]]></content>
     </entry>
 </feed>
