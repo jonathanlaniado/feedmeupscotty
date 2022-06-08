@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T08:16:17.662Z</updated>
+    <updated>2022-06-08T09:11:20.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Chess.com (Raycast Store)]]></title>
+        <id>raycast://extensions/joshfarrant/chess-com?source=webstore</id>
+        <link href="raycast://extensions/joshfarrant/chess-com?source=webstore"/>
+        <updated>2022-06-08T09:11:20.061Z</updated>
+        <content type="html"><![CDATA[Quickly start games on Chess.com]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amphetamine (Raycast Store)]]></title>
         <id>raycast://extensions/gstvds/amphetamine?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/timrogers/raycast-tapo-smart-devices?source=webstore"/>
         <updated>2022-06-06T13:07:46.030Z</updated>
         <content type="html"><![CDATA[Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Clock (Raycast Store)]]></title>
-        <id>raycast://extensions/koinzhang/world-clock?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/world-clock?source=webstore"/>
-        <updated>2022-06-06T13:07:46.032Z</updated>
-        <content type="html"><![CDATA[Query the current time of a region, ip or domain.]]></content>
     </entry>
 </feed>
