@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-09T18:13:42.517Z</updated>
+    <updated>2022-06-09T19:09:27.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Markdown This]]></title>
+        <id>raycast://extensions/aravindballa/markdown-this?source=webstore</id>
+        <link href="raycast://extensions/aravindballa/markdown-this?source=webstore"/>
+        <updated>2022-06-09T19:09:27.369Z</updated>
+        <content type="html"><![CDATA[Convert Markdown text in clipboard to HTML]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Explorer Search]]></title>
         <id>raycast://extensions/Namaskar/blockchain-explorer-search?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/rodrigouroz/upcoming-holidays?source=webstore"/>
         <updated>2022-06-06T13:07:46.020Z</updated>
         <content type="html"><![CDATA[Show upcoming holidays for a country]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickFile]]></title>
-        <id>raycast://extensions/danielroe/quickfile?source=webstore</id>
-        <link href="raycast://extensions/danielroe/quickfile?source=webstore"/>
-        <updated>2022-06-06T13:07:46.020Z</updated>
-        <content type="html"><![CDATA[Access your QuickFile account balances.]]></content>
     </entry>
 </feed>
