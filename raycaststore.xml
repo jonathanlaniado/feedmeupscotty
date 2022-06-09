@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-09T07:11:16.260Z</updated>
+    <updated>2022-06-09T08:16:11.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Currency Exchange]]></title>
+        <id>raycast://extensions/xeric/currency-exchange?source=webstore</id>
+        <link href="raycast://extensions/xeric/currency-exchange?source=webstore"/>
+        <updated>2022-06-09T08:16:10.642Z</updated>
+        <content type="html"><![CDATA[Simple Currency Exchange, uses Exchange Rate API as the data source]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airplane]]></title>
         <id>raycast://extensions/pradeepb28/airplane?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/louison/fip?source=webstore"/>
         <updated>2022-06-06T13:07:46.020Z</updated>
         <content type="html"><![CDATA[Start and explore the fip radio directly from Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA Viewer]]></title>
-        <id>raycast://extensions/AbhinavPalacharla/nba-viewer?source=webstore</id>
-        <link href="raycast://extensions/AbhinavPalacharla/nba-viewer?source=webstore"/>
-        <updated>2022-06-06T13:07:46.025Z</updated>
-        <content type="html"><![CDATA[View upcoming NBA games and NBA team standings]]></content>
     </entry>
 </feed>
