@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-10T10:12:05.433Z</updated>
+    <updated>2022-06-10T11:10:47.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Country Lookup]]></title>
+        <id>raycast://extensions/pernielsentikaer/country-lookup?source=webstore</id>
+        <link href="raycast://extensions/pernielsentikaer/country-lookup?source=webstore"/>
+        <updated>2022-06-10T11:10:47.111Z</updated>
+        <content type="html"><![CDATA[Quickly lookup countries and get informational data]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drafts]]></title>
         <id>raycast://extensions/FlohGro/drafts?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/jameslyons/session?source=webstore"/>
         <updated>2022-06-07T06:14:02.249Z</updated>
         <content type="html"><![CDATA[Control Session pomodoro timers. Requires v2.1.6 or later installed: www.stayinsession.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM.MS]]></title>
-        <id>raycast://extensions/koinzhang/sm-ms?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/sm-ms?source=webstore"/>
-        <updated>2022-06-06T13:07:46.002Z</updated>
-        <content type="html"><![CDATA[SM.MS image hosting service to upload and share images.]]></content>
     </entry>
 </feed>
