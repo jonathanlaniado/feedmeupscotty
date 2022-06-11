@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-11T19:08:55.981Z</updated>
+    <updated>2022-06-11T20:11:34.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Multilinks (Raycast Store)]]></title>
+        <id>raycast://extensions/abhisheksatre/multilinks?source=webstore</id>
+        <link href="raycast://extensions/abhisheksatre/multilinks?source=webstore"/>
+        <updated>2022-06-11T20:11:33.661Z</updated>
+        <content type="html"><![CDATA[Open multiple links at once]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Stash (Raycast Store)]]></title>
         <id>raycast://extensions/ben-greenwood/code-stash?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/joshfarrant/chess-com?source=webstore"/>
         <updated>2022-06-08T09:11:20.061Z</updated>
         <content type="html"><![CDATA[Quickly start games on Chess.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amphetamine (Raycast Store)]]></title>
-        <id>raycast://extensions/gstvds/amphetamine?source=webstore</id>
-        <link href="raycast://extensions/gstvds/amphetamine?source=webstore"/>
-        <updated>2022-06-07T11:10:30.340Z</updated>
-        <content type="html"><![CDATA[Controls Amphetamine using Raycast]]></content>
     </entry>
 </feed>
