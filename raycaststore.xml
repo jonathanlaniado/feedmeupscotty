@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-14T08:15:31.832Z</updated>
+    <updated>2022-06-14T09:12:02.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mantine UI Documentation]]></title>
+        <id>raycast://extensions/EmilMalanczak/mantine-documentation?source=webstore</id>
+        <link href="raycast://extensions/EmilMalanczak/mantine-documentation?source=webstore"/>
+        <updated>2022-06-14T09:12:02.374Z</updated>
+        <content type="html"><![CDATA[Browse simplified documentation for Mantine or use quick links to particular pages directly through Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multilinks]]></title>
         <id>raycast://extensions/abhisheksatre/multilinks?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/pradeepb28/airplane?source=webstore"/>
         <updated>2022-06-08T10:12:34.807Z</updated>
         <content type="html"><![CDATA[Just like on iPhone, turn off the wireless features on your macOS anytime.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chess.com]]></title>
-        <id>raycast://extensions/joshfarrant/chess-com?source=webstore</id>
-        <link href="raycast://extensions/joshfarrant/chess-com?source=webstore"/>
-        <updated>2022-06-08T09:11:20.061Z</updated>
-        <content type="html"><![CDATA[Quickly start games on Chess.com]]></content>
     </entry>
 </feed>
