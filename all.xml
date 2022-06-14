@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-14T09:12:02.977Z</updated>
+    <updated>2022-06-14T10:13:53.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Pastebin (Raycast Store)]]></title>
+        <id>raycast://extensions/vimtor/pastebin?source=webstore</id>
+        <link href="raycast://extensions/vimtor/pastebin?source=webstore"/>
+        <updated>2022-06-14T10:13:52.911Z</updated>
+        <content type="html"><![CDATA[Create and manage Pastebin pastes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantine UI Documentation (Raycast Store)]]></title>
         <id>raycast://extensions/EmilMalanczak/mantine-documentation?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/xeric/currency-exchange?source=webstore"/>
         <updated>2022-06-09T08:16:10.642Z</updated>
         <content type="html"><![CDATA[Simple Currency Exchange, uses Exchange Rate API as the data source]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airplane (Raycast Store)]]></title>
-        <id>raycast://extensions/pradeepb28/airplane?source=webstore</id>
-        <link href="raycast://extensions/pradeepb28/airplane?source=webstore"/>
-        <updated>2022-06-08T10:12:34.807Z</updated>
-        <content type="html"><![CDATA[Just like on iPhone, turn off the wireless features on your macOS anytime.]]></content>
     </entry>
 </feed>
