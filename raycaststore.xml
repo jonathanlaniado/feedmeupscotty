@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-15T07:11:18.623Z</updated>
+    <updated>2022-06-15T08:15:50.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bunch]]></title>
+        <id>raycast://extensions/koinzhang/bunch?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/bunch?source=webstore"/>
+        <updated>2022-06-15T08:15:49.728Z</updated>
+        <content type="html"><![CDATA[Control Bunch via Raycast.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gopass]]></title>
         <id>raycast://extensions/bake/gopass?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/FlohGro/drafts?source=webstore"/>
         <updated>2022-06-10T06:14:35.651Z</updated>
         <content type="html"><![CDATA[integrate Raycast with Drafts app]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailsy]]></title>
-        <id>raycast://extensions/BalliAsghar/mailsy?source=webstore</id>
-        <link href="raycast://extensions/BalliAsghar/mailsy?source=webstore"/>
-        <updated>2022-06-10T05:10:27.925Z</updated>
-        <content type="html"><![CDATA[Quickly Generate Disposable Email Address and view received mails.]]></content>
     </entry>
 </feed>
