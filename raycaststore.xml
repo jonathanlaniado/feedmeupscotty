@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-16T07:20:16.283Z</updated>
+    <updated>2022-06-16T08:17:06.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Open Browsers Profiles]]></title>
+        <id>raycast://extensions/skydiver/browsers-profiles?source=webstore</id>
+        <link href="raycast://extensions/skydiver/browsers-profiles?source=webstore"/>
+        <updated>2022-06-16T08:17:05.617Z</updated>
+        <content type="html"><![CDATA[Access your browsers profiles from Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bundlephobia]]></title>
         <id>raycast://extensions/thuutri2710/bundlephobia?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/J3n5en/hostloc?source=webstore"/>
         <updated>2022-06-14T13:26:57.082Z</updated>
         <content type="html"><![CDATA[You can quickly access the 20 latest posts of hostloc at the moment. Note: The hostloc home page can be reached by visiting https://www.hostloc.com/ through your browser.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sip]]></title>
-        <id>raycast://extensions/jameslyons/sip?source=webstore</id>
-        <link href="raycast://extensions/jameslyons/sip?source=webstore"/>
-        <updated>2022-06-14T12:21:02.381Z</updated>
-        <content type="html"><![CDATA[Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, and add hex color to history.]]></content>
     </entry>
 </feed>
