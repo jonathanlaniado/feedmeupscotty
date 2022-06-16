@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-16T05:14:31.909Z</updated>
+    <updated>2022-06-16T07:20:16.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bundlephobia]]></title>
+        <id>raycast://extensions/thuutri2710/bundlephobia?source=webstore</id>
+        <link href="raycast://extensions/thuutri2710/bundlephobia?source=webstore"/>
+        <updated>2022-06-16T07:20:15.610Z</updated>
+        <content type="html"><![CDATA[Check the bundlesize of Javascript library]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pie for Pi-hole]]></title>
+        <id>raycast://extensions/GLaDO8/pie-for-pi-hole?source=webstore</id>
+        <link href="raycast://extensions/GLaDO8/pie-for-pi-hole?source=webstore"/>
+        <updated>2022-06-16T07:20:15.613Z</updated>
+        <content type="html"><![CDATA[Control your Pi-hole from Raycast.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest Local News]]></title>
         <id>raycast://extensions/FilipeCerejo/latest-news?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/jameslyons/sip?source=webstore"/>
         <updated>2022-06-14T12:21:02.381Z</updated>
         <content type="html"><![CDATA[Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, and add hex color to history.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pastebin]]></title>
-        <id>raycast://extensions/vimtor/pastebin?source=webstore</id>
-        <link href="raycast://extensions/vimtor/pastebin?source=webstore"/>
-        <updated>2022-06-14T10:13:52.911Z</updated>
-        <content type="html"><![CDATA[Create and manage Pastebin pastes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantine UI Documentation]]></title>
-        <id>raycast://extensions/EmilMalanczak/mantine-documentation?source=webstore</id>
-        <link href="raycast://extensions/EmilMalanczak/mantine-documentation?source=webstore"/>
-        <updated>2022-06-14T09:12:02.374Z</updated>
-        <content type="html"><![CDATA[Browse simplified documentation for Mantine or use quick links to particular pages directly through Raycast]]></content>
     </entry>
 </feed>
