@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-18T05:09:23.794Z</updated>
+    <updated>2022-06-18T06:13:22.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Steam]]></title>
+        <id>raycast://extensions/KevinBatdorf/steam?source=webstore</id>
+        <link href="raycast://extensions/KevinBatdorf/steam?source=webstore"/>
+        <updated>2022-06-18T06:13:21.596Z</updated>
+        <content type="html"><![CDATA[Search and view information about any game on steam, as well as games you own.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teamup Rooms]]></title>
         <id>raycast://extensions/drewwatkins11/teamup-rooms?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/FilipeCerejo/latest-news?source=webstore"/>
         <updated>2022-06-15T15:12:10.705Z</updated>
         <content type="html"><![CDATA[Latest local news served by Microsoft Bing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture Fullpage of Website]]></title>
-        <id>raycast://extensions/Coun1er/capture-fullpage-of-website?source=webstore</id>
-        <link href="raycast://extensions/Coun1er/capture-fullpage-of-website?source=webstore"/>
-        <updated>2022-06-15T15:12:10.706Z</updated>
-        <content type="html"><![CDATA[This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site.]]></content>
     </entry>
 </feed>
