@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-20T06:14:28.801Z</updated>
+    <updated>2022-06-20T07:11:16.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BetterZip]]></title>
+        <id>raycast://extensions/koinzhang/betterzip?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/betterzip?source=webstore"/>
+        <updated>2022-06-20T07:11:16.299Z</updated>
+        <content type="html"><![CDATA[Compress and extract selected items in Finder with BetterZip via Raycast.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Character]]></title>
+        <id>raycast://extensions/koinzhang/chinese-character?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/chinese-character?source=webstore"/>
+        <updated>2022-06-20T07:11:16.299Z</updated>
+        <content type="html"><![CDATA[Chinese character conversion tools.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam]]></title>
         <id>raycast://extensions/KevinBatdorf/steam?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/skydiver/browsers-profiles?source=webstore"/>
         <updated>2022-06-16T08:17:05.617Z</updated>
         <content type="html"><![CDATA[Access your browsers profiles from Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pie for Pi-hole]]></title>
-        <id>raycast://extensions/GLaDO8/pie-for-pi-hole?source=webstore</id>
-        <link href="raycast://extensions/GLaDO8/pie-for-pi-hole?source=webstore"/>
-        <updated>2022-06-16T07:20:15.613Z</updated>
-        <content type="html"><![CDATA[Control your Pi-hole from Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Local News]]></title>
-        <id>raycast://extensions/FilipeCerejo/latest-news?source=webstore</id>
-        <link href="raycast://extensions/FilipeCerejo/latest-news?source=webstore"/>
-        <updated>2022-06-15T15:12:10.705Z</updated>
-        <content type="html"><![CDATA[Latest local news served by Microsoft Bing]]></content>
     </entry>
 </feed>
