@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-21T12:24:52.056Z</updated>
+    <updated>2022-06-21T13:37:39.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Spaces]]></title>
+        <id>raycast://extensions/pradeepb28/spaces?source=webstore</id>
+        <link href="raycast://extensions/pradeepb28/spaces?source=webstore"/>
+        <updated>2022-06-21T13:37:38.830Z</updated>
+        <content type="html"><![CDATA[It's time to reclaim your workspace on macOS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typefully]]></title>
         <id>raycast://extensions/danielferguson/typefully?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/danielsequeira/portuguese-primeira-liga?source=webstore"/>
         <updated>2022-06-16T12:21:35.192Z</updated>
         <content type="html"><![CDATA[View the latest Portuguese Primeira Liga standings.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Dictionary]]></title>
-        <id>raycast://extensions/isfeng/easydict?source=webstore</id>
-        <link href="raycast://extensions/isfeng/easydict?source=webstore"/>
-        <updated>2022-06-16T11:09:23.208Z</updated>
-        <content type="html"><![CDATA[Look up words or translate text in an easy way, especially optimized for English and Chinese words.]]></content>
     </entry>
 </feed>
