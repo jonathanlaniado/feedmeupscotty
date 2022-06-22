@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-22T05:16:18.851Z</updated>
+    <updated>2022-06-22T06:14:49.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[n8n]]></title>
+        <id>raycast://extensions/koinzhang/n8n?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/n8n?source=webstore"/>
+        <updated>2022-06-22T06:14:48.538Z</updated>
+        <content type="html"><![CDATA[Control n8n via Raycast.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-Decorator]]></title>
+        <id>raycast://extensions/koinzhang/text-decorator?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/text-decorator?source=webstore"/>
+        <updated>2022-06-22T06:14:48.538Z</updated>
+        <content type="html"><![CDATA[Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shell]]></title>
         <id>raycast://extensions/asubbotin/shell?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/andreaselia/better-uptime?source=webstore"/>
         <updated>2022-06-17T12:22:47.864Z</updated>
         <content type="html"><![CDATA[Check on your Better Uptime monitors, incidents and heartbeats.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QBitorrent]]></title>
-        <id>raycast://extensions/J3n5en/qbitorrent?source=webstore</id>
-        <link href="raycast://extensions/J3n5en/qbitorrent?source=webstore"/>
-        <updated>2022-06-17T12:22:47.864Z</updated>
-        <content type="html"><![CDATA[a qBitorrent client]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensk.is]]></title>
-        <id>raycast://extensions/jokull/ensk-is?source=webstore</id>
-        <link href="raycast://extensions/jokull/ensk-is?source=webstore"/>
-        <updated>2022-06-17T09:12:22.889Z</updated>
-        <content type="html"><![CDATA[Search the Ensk.is English to Icelandic dictionary]]></content>
     </entry>
 </feed>
