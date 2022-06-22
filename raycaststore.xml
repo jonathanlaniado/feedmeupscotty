@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-22T06:14:49.176Z</updated>
+    <updated>2022-06-22T07:10:42.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[Control n8n via Raycast.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text-Decorator]]></title>
+        <title type="html"><![CDATA[Text Decorator]]></title>
         <id>raycast://extensions/koinzhang/text-decorator?source=webstore</id>
         <link href="raycast://extensions/koinzhang/text-decorator?source=webstore"/>
         <updated>2022-06-22T06:14:48.538Z</updated>
