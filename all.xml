@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-22T21:10:42.625Z</updated>
+    <updated>2022-06-22T22:10:29.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Generate Nanoid (Raycast Store)]]></title>
+        <id>raycast://extensions/roelvan/nanoid?source=webstore</id>
+        <link href="raycast://extensions/roelvan/nanoid?source=webstore"/>
+        <updated>2022-06-22T22:10:28.766Z</updated>
+        <content type="html"><![CDATA[A tiny, secure, URL friendly, unique string ID generator for JavaScript]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OBS Control (Raycast Store)]]></title>
         <id>raycast://extensions/Yukai/obs-control?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/koinzhang/chinese-character?source=webstore"/>
         <updated>2022-06-20T07:11:16.299Z</updated>
         <content type="html"><![CDATA[Chinese character conversion tools.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam (Raycast Store)]]></title>
-        <id>raycast://extensions/KevinBatdorf/steam?source=webstore</id>
-        <link href="raycast://extensions/KevinBatdorf/steam?source=webstore"/>
-        <updated>2022-06-18T06:13:21.596Z</updated>
-        <content type="html"><![CDATA[Search and view information about any game on steam, as well as games you own.]]></content>
     </entry>
 </feed>
