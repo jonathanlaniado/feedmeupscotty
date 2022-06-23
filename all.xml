@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-23T07:10:48.669Z</updated>
+    <updated>2022-06-23T08:16:42.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Bibmanager (Raycast Store)]]></title>
+        <id>raycast://extensions/aaronschneider/bibmanager?source=webstore</id>
+        <link href="raycast://extensions/aaronschneider/bibmanager?source=webstore"/>
+        <updated>2022-06-23T08:16:42.184Z</updated>
+        <content type="html"><![CDATA[Search Bibmanager Database from Raycast]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coda Bookmarks Search (Raycast Store)]]></title>
+        <id>raycast://extensions/allienx/coda-bookmarks-search?source=webstore</id>
+        <link href="raycast://extensions/allienx/coda-bookmarks-search?source=webstore"/>
+        <updated>2022-06-23T08:16:42.184Z</updated>
+        <content type="html"><![CDATA[Quickly find and open your bookmarked URLs stored in a coda table.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generate Nanoid (Raycast Store)]]></title>
         <id>raycast://extensions/roelvan/nanoid?source=webstore</id>
@@ -59,19 +73,5 @@
         <link href="raycast://extensions/danielferguson/typefully?source=webstore"/>
         <updated>2022-06-21T12:24:51.407Z</updated>
         <content type="html"><![CDATA[The Typefully extension to help you schedule tweets and reach your audience.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BetterZip (Raycast Store)]]></title>
-        <id>raycast://extensions/koinzhang/betterzip?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/betterzip?source=webstore"/>
-        <updated>2022-06-20T07:11:16.299Z</updated>
-        <content type="html"><![CDATA[Compress and extract selected items in Finder with BetterZip via Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Character (Raycast Store)]]></title>
-        <id>raycast://extensions/koinzhang/chinese-character?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/chinese-character?source=webstore"/>
-        <updated>2022-06-20T07:11:16.299Z</updated>
-        <content type="html"><![CDATA[Chinese character conversion tools.]]></content>
     </entry>
 </feed>
