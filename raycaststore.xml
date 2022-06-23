@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-23T11:09:49.065Z</updated>
+    <updated>2022-06-23T12:22:31.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[IconPark]]></title>
+        <id>raycast://extensions/koinzhang/iconpark?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/iconpark?source=webstore"/>
+        <updated>2022-06-23T12:22:31.048Z</updated>
+        <content type="html"><![CDATA[IconPark gives access to more than 2000 high-quality icons without API key and network.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bibmanager]]></title>
         <id>raycast://extensions/aaronschneider/bibmanager?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/pradeepb28/spaces?source=webstore"/>
         <updated>2022-06-21T13:37:38.830Z</updated>
         <content type="html"><![CDATA[It's time to reclaim your workspace on macOS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typefully]]></title>
-        <id>raycast://extensions/danielferguson/typefully?source=webstore</id>
-        <link href="raycast://extensions/danielferguson/typefully?source=webstore"/>
-        <updated>2022-06-21T12:24:51.407Z</updated>
-        <content type="html"><![CDATA[The Typefully extension to help you schedule tweets and reach your audience.]]></content>
     </entry>
 </feed>
