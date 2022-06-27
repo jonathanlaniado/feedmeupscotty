@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-27T07:10:39.371Z</updated>
+    <updated>2022-06-27T08:15:51.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Hypersonic (Raycast Store)]]></title>
+        <id>raycast://extensions/reboot.studio/hypersonic?source=webstore</id>
+        <link href="raycast://extensions/reboot.studio/hypersonic?source=webstore"/>
+        <updated>2022-06-27T08:15:50.566Z</updated>
+        <content type="html"><![CDATA[Fastest Notion to-do app ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fathom Analytics (Raycast Store)]]></title>
         <id>raycast://extensions/danielferguson/fathom-analytics?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/koinzhang/text-decorator?source=webstore"/>
         <updated>2022-06-22T06:14:48.538Z</updated>
         <content type="html"><![CDATA[Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shell (Raycast Store)]]></title>
-        <id>raycast://extensions/asubbotin/shell?source=webstore</id>
-        <link href="raycast://extensions/asubbotin/shell?source=webstore"/>
-        <updated>2022-06-21T15:12:26.531Z</updated>
-        <content type="html"><![CDATA[Run shell commands from Raycast]]></content>
     </entry>
 </feed>

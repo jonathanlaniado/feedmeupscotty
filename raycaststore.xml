@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-27T07:10:39.369Z</updated>
+    <updated>2022-06-27T08:15:51.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hypersonic]]></title>
+        <id>raycast://extensions/reboot.studio/hypersonic?source=webstore</id>
+        <link href="raycast://extensions/reboot.studio/hypersonic?source=webstore"/>
+        <updated>2022-06-27T08:15:50.566Z</updated>
+        <content type="html"><![CDATA[Fastest Notion to-do app ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fathom Analytics]]></title>
         <id>raycast://extensions/danielferguson/fathom-analytics?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/koinzhang/text-decorator?source=webstore"/>
         <updated>2022-06-22T06:14:48.538Z</updated>
         <content type="html"><![CDATA[Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shell]]></title>
-        <id>raycast://extensions/asubbotin/shell?source=webstore</id>
-        <link href="raycast://extensions/asubbotin/shell?source=webstore"/>
-        <updated>2022-06-21T15:12:26.531Z</updated>
-        <content type="html"><![CDATA[Run shell commands from Raycast]]></content>
     </entry>
 </feed>
