@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-28T04:35:31.132Z</updated>
+    <updated>2022-06-28T05:21:23.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Regex Tester]]></title>
+        <id>raycast://extensions/allenan/regex-tester?source=webstore</id>
+        <link href="raycast://extensions/allenan/regex-tester?source=webstore"/>
+        <updated>2022-06-28T05:21:22.485Z</updated>
+        <content type="html"><![CDATA[Preview and test regular expressions]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xid]]></title>
         <id>raycast://extensions/rosszurowski/xid?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/Yukai/obs-control?source=webstore"/>
         <updated>2022-06-22T13:32:29.510Z</updated>
         <content type="html"><![CDATA[Control OBS Studio with websocket API]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon]]></title>
-        <id>raycast://extensions/andreaselia/simon?source=webstore</id>
-        <link href="raycast://extensions/andreaselia/simon?source=webstore"/>
-        <updated>2022-06-22T13:32:29.511Z</updated>
-        <content type="html"><![CDATA[Play a game of Simon.]]></content>
     </entry>
 </feed>
