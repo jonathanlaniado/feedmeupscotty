@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-06-29T12:20:18.342Z</updated>
+    <updated>2022-06-29T13:32:31.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Short.io]]></title>
+        <id>raycast://extensions/koinzhang/short-io?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/short-io?source=webstore"/>
+        <updated>2022-06-29T13:32:30.492Z</updated>
+        <content type="html"><![CDATA[Shorten and search links with your own domain via Short.io]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regex Tester]]></title>
         <id>raycast://extensions/allenan/regex-tester?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/roelvan/nanoid?source=webstore"/>
         <updated>2022-06-22T22:10:28.766Z</updated>
         <content type="html"><![CDATA[A tiny, secure, URL friendly, unique string ID generator for JavaScript]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Control]]></title>
-        <id>raycast://extensions/Yukai/obs-control?source=webstore</id>
-        <link href="raycast://extensions/Yukai/obs-control?source=webstore"/>
-        <updated>2022-06-22T13:32:29.510Z</updated>
-        <content type="html"><![CDATA[Control OBS Studio with websocket API]]></content>
     </entry>
 </feed>

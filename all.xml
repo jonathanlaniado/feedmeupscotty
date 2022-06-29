@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T12:20:18.346Z</updated>
+    <updated>2022-06-29T13:32:31.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Short.io (Raycast Store)]]></title>
+        <id>raycast://extensions/koinzhang/short-io?source=webstore</id>
+        <link href="raycast://extensions/koinzhang/short-io?source=webstore"/>
+        <updated>2022-06-29T13:32:30.492Z</updated>
+        <content type="html"><![CDATA[Shorten and search links with your own domain via Short.io]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regex Tester (Raycast Store)]]></title>
         <id>raycast://extensions/allenan/regex-tester?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/roelvan/nanoid?source=webstore"/>
         <updated>2022-06-22T22:10:28.766Z</updated>
         <content type="html"><![CDATA[A tiny, secure, URL friendly, unique string ID generator for JavaScript]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Control (Raycast Store)]]></title>
-        <id>raycast://extensions/Yukai/obs-control?source=webstore</id>
-        <link href="raycast://extensions/Yukai/obs-control?source=webstore"/>
-        <updated>2022-06-22T13:32:29.510Z</updated>
-        <content type="html"><![CDATA[Control OBS Studio with websocket API]]></content>
     </entry>
 </feed>
