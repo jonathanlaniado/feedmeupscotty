@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-01T11:09:35.286Z</updated>
+    <updated>2022-07-01T12:23:04.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>raycast://extensions/koinzhang/wi-fi?source=webstore</id>
         <link href="raycast://extensions/koinzhang/wi-fi?source=webstore"/>
         <updated>2022-06-30T15:12:14.190Z</updated>
-        <content type="html"><![CDATA[Connect Wi-Fi via Raycast]]></content>
+        <content type="html"><![CDATA[Connect and toggle Wi-Fi via Raycast.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Short.io]]></title>
