@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-04T06:17:31.811Z</updated>
+    <updated>2022-07-04T07:10:53.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Envoyer]]></title>
+        <id>raycast://extensions/thijsdewitt/envoyer?source=webstore</id>
+        <link href="raycast://extensions/thijsdewitt/envoyer?source=webstore"/>
+        <updated>2022-07-04T07:10:53.033Z</updated>
+        <content type="html"><![CDATA[Search for envoyer projects, start new deploys and view recent deployments]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOTween Eases]]></title>
         <id>raycast://extensions/metakirby5/dotween-eases?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/danielferguson/fathom-analytics?source=webstore"/>
         <updated>2022-06-24T08:14:26.288Z</updated>
         <content type="html"><![CDATA[Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IconPark]]></title>
-        <id>raycast://extensions/koinzhang/iconpark?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/iconpark?source=webstore"/>
-        <updated>2022-06-23T12:22:31.048Z</updated>
-        <content type="html"><![CDATA[IconPark gives access to more than 2000 high-quality icons without API key and network.]]></content>
     </entry>
 </feed>
