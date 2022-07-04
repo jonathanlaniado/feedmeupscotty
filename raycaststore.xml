@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-04T16:15:38.763Z</updated>
+    <updated>2022-07-04T17:16:26.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Specify]]></title>
+        <id>raycast://extensions/AllanM/specify?source=webstore</id>
+        <link href="raycast://extensions/AllanM/specify?source=webstore"/>
+        <updated>2022-07-04T17:16:26.139Z</updated>
+        <content type="html"><![CDATA[Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DekuDeals]]></title>
         <id>raycast://extensions/rrroyal/dekudeals?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/rafalpetryka/openfortivpn?source=webstore"/>
         <updated>2022-06-27T11:10:26.342Z</updated>
         <content type="html"><![CDATA[Connect to openfortivpn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypersonic]]></title>
-        <id>raycast://extensions/reboot.studio/hypersonic?source=webstore</id>
-        <link href="raycast://extensions/reboot.studio/hypersonic?source=webstore"/>
-        <updated>2022-06-27T08:15:50.566Z</updated>
-        <content type="html"><![CDATA[Fastest Notion to-do app ever]]></content>
     </entry>
 </feed>
