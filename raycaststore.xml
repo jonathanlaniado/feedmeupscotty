@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-05T06:14:27.123Z</updated>
+    <updated>2022-07-05T07:10:56.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Inkdrop]]></title>
+        <id>raycast://extensions/yaeda/inkdrop?source=webstore</id>
+        <link href="raycast://extensions/yaeda/inkdrop?source=webstore"/>
+        <updated>2022-07-05T07:10:55.537Z</updated>
+        <content type="html"><![CDATA[Control Inkdrop with Raycast]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battery Health]]></title>
+        <id>raycast://extensions/o1y/battery-health?source=webstore</id>
+        <link href="raycast://extensions/o1y/battery-health?source=webstore"/>
+        <updated>2022-07-05T07:10:55.541Z</updated>
+        <content type="html"><![CDATA[Shows live information about the battery in your Mac!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Specify]]></title>
         <id>raycast://extensions/AllanM/specify?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/allenan/regex-tester?source=webstore"/>
         <updated>2022-06-28T05:21:22.485Z</updated>
         <content type="html"><![CDATA[Preview and test regular expressions]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xid]]></title>
-        <id>raycast://extensions/rosszurowski/xid?source=webstore</id>
-        <link href="raycast://extensions/rosszurowski/xid?source=webstore"/>
-        <updated>2022-06-27T22:10:35.400Z</updated>
-        <content type="html"><![CDATA[Quickly create an xid from Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Openfortivpn]]></title>
-        <id>raycast://extensions/rafalpetryka/openfortivpn?source=webstore</id>
-        <link href="raycast://extensions/rafalpetryka/openfortivpn?source=webstore"/>
-        <updated>2022-06-27T11:10:26.342Z</updated>
-        <content type="html"><![CDATA[Connect to openfortivpn]]></content>
     </entry>
 </feed>
