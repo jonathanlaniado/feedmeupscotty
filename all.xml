@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-07T11:11:28.358Z</updated>
+    <updated>2022-07-07T12:22:58.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Truth or Dare (Raycast Store)]]></title>
+        <id>raycast://extensions/coding/truth-or-dare?source=webstore</id>
+        <link href="raycast://extensions/coding/truth-or-dare?source=webstore"/>
+        <updated>2022-07-07T12:22:57.666Z</updated>
+        <content type="html"><![CDATA[Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question!
+Powered by https://truthordarebot.xyz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inkdrop (Raycast Store)]]></title>
         <id>raycast://extensions/yaeda/inkdrop?source=webstore</id>
@@ -66,12 +74,5 @@
         <link href="raycast://extensions/koinzhang/short-io?source=webstore"/>
         <updated>2022-06-29T13:32:30.492Z</updated>
         <content type="html"><![CDATA[Shorten and search links with your own domain via Short.io]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regex Tester (Raycast Store)]]></title>
-        <id>raycast://extensions/allenan/regex-tester?source=webstore</id>
-        <link href="raycast://extensions/allenan/regex-tester?source=webstore"/>
-        <updated>2022-06-28T05:21:22.485Z</updated>
-        <content type="html"><![CDATA[Preview and test regular expressions]]></content>
     </entry>
 </feed>
