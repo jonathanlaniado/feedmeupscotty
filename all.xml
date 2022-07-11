@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T14:22:58.606Z</updated>
+    <updated>2022-07-11T15:11:27.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Taskplane (Raycast Store)]]></title>
+        <id>raycast://extensions/albingroen/taskplane?source=webstore</id>
+        <link href="raycast://extensions/albingroen/taskplane?source=webstore"/>
+        <updated>2022-07-11T15:11:26.977Z</updated>
+        <content type="html"><![CDATA[Manage your tasks for Taskplane right in Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gather (Raycast Store)]]></title>
         <id>raycast://extensions/yannglt/gather?source=webstore</id>
@@ -67,12 +74,5 @@ Powered by https://truthordarebot.xyz]]></content>
         <link href="raycast://extensions/koinzhang/screen-saver?source=webstore"/>
         <updated>2022-07-01T11:09:34.702Z</updated>
         <content type="html"><![CDATA[Activate screen saver of your Mac.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi (Raycast Store)]]></title>
-        <id>raycast://extensions/koinzhang/wi-fi?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/wi-fi?source=webstore"/>
-        <updated>2022-06-30T15:12:14.190Z</updated>
-        <content type="html"><![CDATA[Connect and toggle Wi-Fi via Raycast.]]></content>
     </entry>
 </feed>
