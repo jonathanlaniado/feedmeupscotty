@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-12T11:10:50.294Z</updated>
+    <updated>2022-07-12T12:34:25.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GitLab Docs]]></title>
+        <id>raycast://extensions/saschaeggi/gitlab-docs?source=webstore</id>
+        <link href="raycast://extensions/saschaeggi/gitlab-docs?source=webstore"/>
+        <updated>2022-07-12T12:34:25.077Z</updated>
+        <content type="html"><![CDATA[Raycast extension to search GitLab Docs, Handbook &amp; Pajamas Design System.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpine.js]]></title>
         <id>raycast://extensions/aurawindsurfing/alpinejs?source=webstore</id>
@@ -68,12 +75,5 @@ Powered by https://truthordarebot.xyz]]></content>
         <link href="raycast://extensions/rrroyal/dekudeals?source=webstore"/>
         <updated>2022-07-04T09:11:26.683Z</updated>
         <content type="html"><![CDATA[Search for deals on DekuDeals.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Envoyer]]></title>
-        <id>raycast://extensions/thijsdewitt/envoyer?source=webstore</id>
-        <link href="raycast://extensions/thijsdewitt/envoyer?source=webstore"/>
-        <updated>2022-07-04T07:10:53.033Z</updated>
-        <content type="html"><![CDATA[Search for envoyer projects, start new deploys and view recent deployments]]></content>
     </entry>
 </feed>
