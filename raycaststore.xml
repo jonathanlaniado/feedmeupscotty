@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-13T11:09:54.845Z</updated>
+    <updated>2022-07-13T12:20:05.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NuGet]]></title>
+        <id>raycast://extensions/lbergantin/nuget?source=webstore</id>
+        <link href="raycast://extensions/lbergantin/nuget?source=webstore"/>
+        <updated>2022-07-13T12:20:04.719Z</updated>
+        <content type="html"><![CDATA[Simple extension to search for NuGet packages and copy command to install them to clipboard]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitLab Docs]]></title>
         <id>raycast://extensions/saschaeggi/gitlab-docs?source=webstore</id>
@@ -68,12 +75,5 @@ Powered by https://truthordarebot.xyz]]></content>
         <link href="raycast://extensions/AllanM/specify?source=webstore"/>
         <updated>2022-07-04T17:16:26.139Z</updated>
         <content type="html"><![CDATA[Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DekuDeals]]></title>
-        <id>raycast://extensions/rrroyal/dekudeals?source=webstore</id>
-        <link href="raycast://extensions/rrroyal/dekudeals?source=webstore"/>
-        <updated>2022-07-04T09:11:26.683Z</updated>
-        <content type="html"><![CDATA[Search for deals on DekuDeals.com]]></content>
     </entry>
 </feed>
