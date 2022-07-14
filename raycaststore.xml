@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-14T14:11:26.272Z</updated>
+    <updated>2022-07-14T15:12:42.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CodeBlocks]]></title>
+        <id>raycast://extensions/isfeng/codeblocks?source=webstore</id>
+        <link href="raycast://extensions/isfeng/codeblocks?source=webstore"/>
+        <updated>2022-07-14T15:12:42.190Z</updated>
+        <content type="html"><![CDATA[Set or modify the programming language in markdown code blocks in batch.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Numi]]></title>
         <id>raycast://extensions/andresmorelos/numi?source=webstore</id>
@@ -68,12 +75,5 @@ Powered by https://truthordarebot.xyz]]></content>
         <link href="raycast://extensions/yaeda/inkdrop?source=webstore"/>
         <updated>2022-07-05T07:10:55.537Z</updated>
         <content type="html"><![CDATA[Control Inkdrop with Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battery Health]]></title>
-        <id>raycast://extensions/o1y/battery-health?source=webstore</id>
-        <link href="raycast://extensions/o1y/battery-health?source=webstore"/>
-        <updated>2022-07-05T07:10:55.541Z</updated>
-        <content type="html"><![CDATA[Shows live information about the battery in your Mac!]]></content>
     </entry>
 </feed>
