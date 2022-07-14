@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-14T09:12:39.759Z</updated>
+    <updated>2022-07-14T10:14:35.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Numi]]></title>
+        <id>raycast://extensions/andresmorelos/numi?source=webstore</id>
+        <link href="raycast://extensions/andresmorelos/numi?source=webstore"/>
+        <updated>2022-07-14T10:14:35.016Z</updated>
+        <content type="html"><![CDATA[Query Numi from Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NuGet]]></title>
         <id>raycast://extensions/lbergantin/nuget?source=webstore</id>
@@ -68,12 +75,5 @@ Powered by https://truthordarebot.xyz]]></content>
         <link href="raycast://extensions/o1y/battery-health?source=webstore"/>
         <updated>2022-07-05T07:10:55.541Z</updated>
         <content type="html"><![CDATA[Shows live information about the battery in your Mac!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specify]]></title>
-        <id>raycast://extensions/AllanM/specify?source=webstore</id>
-        <link href="raycast://extensions/AllanM/specify?source=webstore"/>
-        <updated>2022-07-04T17:16:26.139Z</updated>
-        <content type="html"><![CDATA[Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc.]]></content>
     </entry>
 </feed>
