@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-15T06:14:58.039Z</updated>
+    <updated>2022-07-15T07:11:14.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Passphrase Generator]]></title>
+        <id>raycast://extensions/omBratteng/passphrase-generator?source=webstore</id>
+        <link href="raycast://extensions/omBratteng/passphrase-generator?source=webstore"/>
+        <updated>2022-07-15T07:11:13.764Z</updated>
+        <content type="html"><![CDATA[Generates a set of random passwords using different generators.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chuck Norris Facts]]></title>
         <id>raycast://extensions/jorgecortesdev/chuck-norris-facts?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/albingroen/taskplane?source=webstore"/>
         <updated>2022-07-11T15:11:26.977Z</updated>
         <content type="html"><![CDATA[Manage your tasks for Taskplane right in Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gather]]></title>
-        <id>raycast://extensions/yannglt/gather?source=webstore</id>
-        <link href="raycast://extensions/yannglt/gather?source=webstore"/>
-        <updated>2022-07-10T04:21:56.873Z</updated>
-        <content type="html"><![CDATA[Control Gather from Raycast]]></content>
     </entry>
 </feed>
