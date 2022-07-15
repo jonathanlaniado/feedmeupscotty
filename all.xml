@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-15T08:15:39.050Z</updated>
+    <updated>2022-07-15T09:11:42.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Supernotes (Raycast Store)]]></title>
+        <id>raycast://extensions/acnebs/supernotes?source=webstore</id>
+        <link href="raycast://extensions/acnebs/supernotes?source=webstore"/>
+        <updated>2022-07-15T09:11:41.956Z</updated>
+        <content type="html"><![CDATA[Interact with the Supernotes platform in Raycast.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Passphrase Generator (Raycast Store)]]></title>
         <id>raycast://extensions/omBratteng/passphrase-generator?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/aurawindsurfing/filament?source=webstore"/>
         <updated>2022-07-12T03:53:49.529Z</updated>
         <content type="html"><![CDATA[Documentation Search]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taskplane (Raycast Store)]]></title>
-        <id>raycast://extensions/albingroen/taskplane?source=webstore</id>
-        <link href="raycast://extensions/albingroen/taskplane?source=webstore"/>
-        <updated>2022-07-11T15:11:26.977Z</updated>
-        <content type="html"><![CDATA[Manage your tasks for Taskplane right in Raycast]]></content>
     </entry>
 </feed>
