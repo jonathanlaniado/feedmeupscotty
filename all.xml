@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-15T12:22:09.329Z</updated>
+    <updated>2022-07-15T13:40:48.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Bitfinex (Raycast Store)]]></title>
+        <id>raycast://extensions/Yukai/bitfinex?source=webstore</id>
+        <link href="raycast://extensions/Yukai/bitfinex?source=webstore"/>
+        <updated>2022-07-15T13:40:47.889Z</updated>
+        <content type="html"><![CDATA[A Raycast extension built for Bitfinex margin funding]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dbt Documentation (Raycast Store)]]></title>
+        <id>raycast://extensions/b-per/dbt-documentation?source=webstore</id>
+        <link href="raycast://extensions/b-per/dbt-documentation?source=webstore"/>
+        <updated>2022-07-15T13:40:47.897Z</updated>
+        <content type="html"><![CDATA[Search the dbt documentation website https://docs.getdbt.com/]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature Remo (Raycast Store)]]></title>
+        <id>raycast://extensions/uetchy/nature-remo?source=webstore</id>
+        <link href="raycast://extensions/uetchy/nature-remo?source=webstore"/>
+        <updated>2022-07-15T13:40:47.898Z</updated>
+        <content type="html"><![CDATA[Control Nature Remo right from Raycast.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernotes (Raycast Store)]]></title>
         <id>raycast://extensions/acnebs/supernotes?source=webstore</id>
@@ -52,26 +73,5 @@
         <link href="raycast://extensions/lbergantin/nuget?source=webstore"/>
         <updated>2022-07-13T12:20:04.719Z</updated>
         <content type="html"><![CDATA[Simple extension to search for NuGet packages and copy command to install them to clipboard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Docs (Raycast Store)]]></title>
-        <id>raycast://extensions/saschaeggi/gitlab-docs?source=webstore</id>
-        <link href="raycast://extensions/saschaeggi/gitlab-docs?source=webstore"/>
-        <updated>2022-07-12T12:34:25.077Z</updated>
-        <content type="html"><![CDATA[Raycast extension to search GitLab Docs, Handbook &amp; Pajamas Design System.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine.js (Raycast Store)]]></title>
-        <id>raycast://extensions/aurawindsurfing/alpinejs?source=webstore</id>
-        <link href="raycast://extensions/aurawindsurfing/alpinejs?source=webstore"/>
-        <updated>2022-07-12T04:55:30.272Z</updated>
-        <content type="html"><![CDATA[Search Alpine.js documentation]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filament (Raycast Store)]]></title>
-        <id>raycast://extensions/aurawindsurfing/filament?source=webstore</id>
-        <link href="raycast://extensions/aurawindsurfing/filament?source=webstore"/>
-        <updated>2022-07-12T03:53:49.529Z</updated>
-        <content type="html"><![CDATA[Documentation Search]]></content>
     </entry>
 </feed>
