@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-21T12:23:05.448Z</updated>
+    <updated>2022-07-21T13:35:08.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Recurly]]></title>
+        <id>raycast://extensions/bgnfu7re/recurly?source=webstore</id>
+        <link href="raycast://extensions/bgnfu7re/recurly?source=webstore"/>
+        <updated>2022-07-21T13:35:07.765Z</updated>
+        <content type="html"><![CDATA[A smallish client for the Recurly API]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Night Light]]></title>
         <id>raycast://extensions/devmoath/night-light?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/yz3440/library-genesis?source=webstore"/>
         <updated>2022-07-14T17:23:19.207Z</updated>
         <content type="html"><![CDATA[Search books on Library Genesis and directly download them.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeBlocks]]></title>
-        <id>raycast://extensions/isfeng/codeblocks?source=webstore</id>
-        <link href="raycast://extensions/isfeng/codeblocks?source=webstore"/>
-        <updated>2022-07-14T15:12:42.190Z</updated>
-        <content type="html"><![CDATA[Set or modify the programming language in markdown code blocks in batch.]]></content>
     </entry>
 </feed>
