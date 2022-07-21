@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-21T16:25:14.198Z</updated>
+    <updated>2022-07-21T17:15:54.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[GitHub Commits Menu (Raycast Store)]]></title>
+        <id>raycast://extensions/fe9lix/github-menu-bar?source=webstore</id>
+        <link href="raycast://extensions/fe9lix/github-menu-bar?source=webstore"/>
+        <updated>2022-07-21T17:15:53.537Z</updated>
+        <content type="html"><![CDATA[Show new Git commits in the macOS menu bar.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linear (Raycast Store)]]></title>
         <id>raycast://extensions/raycast/linear?source=webstore</id>
         <link href="raycast://extensions/raycast/linear?source=webstore"/>
         <updated>2022-07-21T15:13:06.304Z</updated>
-        <content type="html"><![CDATA[Bring Linear to every corner of your Mac. Create, search, and modify your issues.]]></content>
+        <content type="html"><![CDATA[Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recurly (Raycast Store)]]></title>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/omBratteng/passphrase-generator?source=webstore"/>
         <updated>2022-07-15T07:11:13.764Z</updated>
         <content type="html"><![CDATA[Generates a set of random passwords using different generators.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chuck Norris Facts (Raycast Store)]]></title>
-        <id>raycast://extensions/jorgecortesdev/chuck-norris-facts?source=webstore</id>
-        <link href="raycast://extensions/jorgecortesdev/chuck-norris-facts?source=webstore"/>
-        <updated>2022-07-15T06:14:57.232Z</updated>
-        <content type="html"><![CDATA[This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts.]]></content>
     </entry>
 </feed>
