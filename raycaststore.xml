@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-27T09:11:39.818Z</updated>
+    <updated>2022-07-27T10:12:29.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YouTrack]]></title>
+        <id>raycast://extensions/tiulpin/youtrack?source=webstore</id>
+        <link href="raycast://extensions/tiulpin/youtrack?source=webstore"/>
+        <updated>2022-07-27T10:12:29.359Z</updated>
+        <content type="html"><![CDATA[YouTrack 🔄 Raycast]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DICOM]]></title>
+        <id>raycast://extensions/sedghi/dicom?source=webstore</id>
+        <link href="raycast://extensions/sedghi/dicom?source=webstore"/>
+        <updated>2022-07-27T10:12:29.359Z</updated>
+        <content type="html"><![CDATA[DICOM tag lookup]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xQc]]></title>
         <id>raycast://extensions/Aayush9029/xqc?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/b-per/dbt-documentation?source=webstore"/>
         <updated>2022-07-15T13:40:47.897Z</updated>
         <content type="html"><![CDATA[Search the dbt documentation website https://docs.getdbt.com/]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature Remo]]></title>
-        <id>raycast://extensions/uetchy/nature-remo?source=webstore</id>
-        <link href="raycast://extensions/uetchy/nature-remo?source=webstore"/>
-        <updated>2022-07-15T13:40:47.898Z</updated>
-        <content type="html"><![CDATA[Control Nature Remo right from Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernotes]]></title>
-        <id>raycast://extensions/acnebs/supernotes?source=webstore</id>
-        <link href="raycast://extensions/acnebs/supernotes?source=webstore"/>
-        <updated>2022-07-15T09:11:41.956Z</updated>
-        <content type="html"><![CDATA[Interact with the Supernotes platform in Raycast.]]></content>
     </entry>
 </feed>
