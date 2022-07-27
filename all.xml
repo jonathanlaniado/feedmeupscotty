@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-27T11:10:29.175Z</updated>
+    <updated>2022-07-27T12:26:00.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[The Movie Database (Raycast Store)]]></title>
+        <id>raycast://extensions/Aayush9029/tmdb?source=webstore</id>
+        <link href="raycast://extensions/Aayush9029/tmdb?source=webstore"/>
+        <updated>2022-07-27T12:25:59.727Z</updated>
+        <content type="html"><![CDATA[Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTrack (Raycast Store)]]></title>
         <id>raycast://extensions/tiulpin/youtrack?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/Yukai/bitfinex?source=webstore"/>
         <updated>2022-07-15T13:40:47.889Z</updated>
         <content type="html"><![CDATA[A Raycast extension built for Bitfinex margin funding]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dbt Documentation (Raycast Store)]]></title>
-        <id>raycast://extensions/b-per/dbt-documentation?source=webstore</id>
-        <link href="raycast://extensions/b-per/dbt-documentation?source=webstore"/>
-        <updated>2022-07-15T13:40:47.897Z</updated>
-        <content type="html"><![CDATA[Search the dbt documentation website https://docs.getdbt.com/]]></content>
     </entry>
 </feed>
