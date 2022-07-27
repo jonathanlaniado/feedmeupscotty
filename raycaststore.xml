@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-27T12:26:00.446Z</updated>
+    <updated>2022-07-27T13:39:18.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Swift Package Index]]></title>
+        <id>raycast://extensions/maximkrouk/swift-package-index?source=webstore</id>
+        <link href="raycast://extensions/maximkrouk/swift-package-index?source=webstore"/>
+        <updated>2022-07-27T13:39:17.514Z</updated>
+        <content type="html"><![CDATA[Search for Swift Packages via https://swiftpackageindex.com]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Count]]></title>
+        <id>raycast://extensions/itsmingjie/word-count?source=webstore</id>
+        <link href="raycast://extensions/itsmingjie/word-count?source=webstore"/>
+        <updated>2022-07-27T13:39:17.517Z</updated>
+        <content type="html"><![CDATA[Count the number of characters, words, sentences, and paragraphs in some text.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Movie Database]]></title>
         <id>raycast://extensions/Aayush9029/tmdb?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/devmoath/night-light?source=webstore"/>
         <updated>2022-07-20T10:12:37.562Z</updated>
         <content type="html"><![CDATA[Manage Night Shift System Settings]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonarr]]></title>
-        <id>raycast://extensions/Aayush9029/sonarr?source=webstore</id>
-        <link href="raycast://extensions/Aayush9029/sonarr?source=webstore"/>
-        <updated>2022-07-19T13:36:00.124Z</updated>
-        <content type="html"><![CDATA[View your Sonarr upcoming shows.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitfinex]]></title>
-        <id>raycast://extensions/Yukai/bitfinex?source=webstore</id>
-        <link href="raycast://extensions/Yukai/bitfinex?source=webstore"/>
-        <updated>2022-07-15T13:40:47.889Z</updated>
-        <content type="html"><![CDATA[A Raycast extension built for Bitfinex margin funding]]></content>
     </entry>
 </feed>
