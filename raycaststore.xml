@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-07-29T09:12:53.726Z</updated>
+    <updated>2022-07-29T10:12:45.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple Developer Docs]]></title>
+        <id>raycast://extensions/cali/apple-developer-docs?source=webstore</id>
+        <link href="raycast://extensions/cali/apple-developer-docs?source=webstore"/>
+        <updated>2022-07-29T10:12:44.381Z</updated>
+        <content type="html"><![CDATA[Search from the Apple Developer documentations]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Icons8]]></title>
         <id>raycast://extensions/yug2005/icons8?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/raycast/linear?source=webstore"/>
         <updated>2022-07-21T15:13:06.304Z</updated>
         <content type="html"><![CDATA[Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recurly]]></title>
-        <id>raycast://extensions/bgnfu7re/recurly?source=webstore</id>
-        <link href="raycast://extensions/bgnfu7re/recurly?source=webstore"/>
-        <updated>2022-07-21T13:35:07.765Z</updated>
-        <content type="html"><![CDATA[A smallish client for the Recurly API]]></content>
     </entry>
 </feed>
