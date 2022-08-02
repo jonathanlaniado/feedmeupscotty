@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-02T08:15:02.088Z</updated>
+    <updated>2022-08-02T09:11:17.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DocSearch]]></title>
+        <id>raycast://extensions/Fatpandac/docsearch?source=webstore</id>
+        <link href="raycast://extensions/Fatpandac/docsearch?source=webstore"/>
+        <updated>2022-08-02T09:11:16.428Z</updated>
+        <content type="html"><![CDATA[Link all DocSearch into Raycast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Headlines]]></title>
         <id>raycast://extensions/Aayush9029/headlines?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/Aayush9029/xqc?source=webstore"/>
         <updated>2022-07-27T09:11:38.757Z</updated>
         <content type="html"><![CDATA[Search and Explore Vods for twitch.tv/xqc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Commits Menu]]></title>
-        <id>raycast://extensions/fe9lix/github-menu-bar?source=webstore</id>
-        <link href="raycast://extensions/fe9lix/github-menu-bar?source=webstore"/>
-        <updated>2022-07-21T17:15:53.537Z</updated>
-        <content type="html"><![CDATA[Show new Git commits in the macOS menu bar.]]></content>
     </entry>
 </feed>
