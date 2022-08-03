@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-03T10:13:07.262Z</updated>
+    <updated>2022-08-03T11:10:42.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Brightness Control (Raycast Store)]]></title>
+        <id>raycast://extensions/cali/brightness-control?source=webstore</id>
+        <link href="raycast://extensions/cali/brightness-control?source=webstore"/>
+        <updated>2022-08-03T11:10:42.318Z</updated>
+        <content type="html"><![CDATA[Quickly controls the brightness levels of your display]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitch Chat (Raycast Store)]]></title>
         <id>raycast://extensions/Aayush9029/twitch-chat?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/tiulpin/youtrack?source=webstore"/>
         <updated>2022-07-27T10:12:29.359Z</updated>
         <content type="html"><![CDATA[YouTrack 🔄 Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DICOM (Raycast Store)]]></title>
-        <id>raycast://extensions/sedghi/dicom?source=webstore</id>
-        <link href="raycast://extensions/sedghi/dicom?source=webstore"/>
-        <updated>2022-07-27T10:12:29.359Z</updated>
-        <content type="html"><![CDATA[DICOM tag lookup]]></content>
     </entry>
 </feed>
