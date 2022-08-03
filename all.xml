@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-03T15:14:28.746Z</updated>
+    <updated>2022-08-03T16:15:27.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Google Fonts (Raycast Store)]]></title>
+        <id>raycast://extensions/GastroGeek/google-fonts?source=webstore</id>
+        <link href="raycast://extensions/GastroGeek/google-fonts?source=webstore"/>
+        <updated>2022-08-03T16:15:26.797Z</updated>
+        <content type="html"><![CDATA[Search and use fonts from Google Fonts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sourcetree (Raycast Store)]]></title>
+        <id>raycast://extensions/i906/sourcetree?source=webstore</id>
+        <link href="raycast://extensions/i906/sourcetree?source=webstore"/>
+        <updated>2022-08-03T16:15:26.799Z</updated>
+        <content type="html"><![CDATA[Search and open Sourcetree repositories]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Active Mississaugua (Raycast Store)]]></title>
         <id>raycast://extensions/Aayush9029/active-mississaugua?source=webstore</id>
@@ -59,19 +73,5 @@
         <link href="raycast://extensions/maximkrouk/swift-package-index?source=webstore"/>
         <updated>2022-07-27T13:39:17.514Z</updated>
         <content type="html"><![CDATA[Search for Swift Packages via https://swiftpackageindex.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Count (Raycast Store)]]></title>
-        <id>raycast://extensions/itsmingjie/word-count?source=webstore</id>
-        <link href="raycast://extensions/itsmingjie/word-count?source=webstore"/>
-        <updated>2022-07-27T13:39:17.517Z</updated>
-        <content type="html"><![CDATA[Count the number of characters, words, sentences, and paragraphs in some text.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Movie Database (Raycast Store)]]></title>
-        <id>raycast://extensions/Aayush9029/tmdb?source=webstore</id>
-        <link href="raycast://extensions/Aayush9029/tmdb?source=webstore"/>
-        <updated>2022-07-27T12:25:59.727Z</updated>
-        <content type="html"><![CDATA[Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more.]]></content>
     </entry>
 </feed>
