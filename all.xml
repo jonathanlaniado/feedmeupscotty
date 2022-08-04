@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-04T09:11:27.469Z</updated>
+    <updated>2022-08-04T10:12:41.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Zoom (Raycast Store)]]></title>
+        <id>raycast://extensions/raycast/zoom-internal?source=webstore</id>
+        <link href="raycast://extensions/raycast/zoom-internal?source=webstore"/>
+        <updated>2022-08-04T10:12:41.223Z</updated>
+        <content type="html"><![CDATA[Start, schedule and join Zoom meetings.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Workspace (Raycast Store)]]></title>
+        <id>raycast://extensions/raycast/google-workspace-internal?source=webstore</id>
+        <link href="raycast://extensions/raycast/google-workspace-internal?source=webstore"/>
+        <updated>2022-08-04T10:12:41.227Z</updated>
+        <content type="html"><![CDATA[Access Google Drive files.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Focus (Raycast Store)]]></title>
         <id>raycast://extensions/koinzhang/just-focus?source=webstore</id>
@@ -59,19 +73,5 @@
         <link href="raycast://extensions/Aayush9029/twitch-chat?source=webstore"/>
         <updated>2022-08-02T15:12:06.890Z</updated>
         <content type="html"><![CDATA[View twitch.tv's live chat]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DocSearch (Raycast Store)]]></title>
-        <id>raycast://extensions/Fatpandac/docsearch?source=webstore</id>
-        <link href="raycast://extensions/Fatpandac/docsearch?source=webstore"/>
-        <updated>2022-08-02T09:11:16.428Z</updated>
-        <content type="html"><![CDATA[Link all DocSearch into Raycast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Headlines (Raycast Store)]]></title>
-        <id>raycast://extensions/Aayush9029/headlines?source=webstore</id>
-        <link href="raycast://extensions/Aayush9029/headlines?source=webstore"/>
-        <updated>2022-08-01T13:37:33.328Z</updated>
-        <content type="html"><![CDATA[Super breif news extension.]]></content>
     </entry>
 </feed>
