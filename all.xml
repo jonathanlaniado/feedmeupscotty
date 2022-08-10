@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-10T15:12:20.095Z</updated>
+    <updated>2022-08-10T16:15:46.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Vercel (Raycast Store)]]></title>
+        <id>raycast://extensions/MaxLeiter/vercast?source=webstore</id>
+        <link href="raycast://extensions/MaxLeiter/vercast?source=webstore"/>
+        <updated>2022-08-10T16:15:45.616Z</updated>
+        <content type="html"><![CDATA[View and modify your Vercel projects and deployments.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iTranslate (Raycast Store)]]></title>
         <id>raycast://extensions/JinShi/itranslate?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/Yukai/hackmd?source=webstore"/>
         <updated>2022-08-03T18:14:35.170Z</updated>
         <content type="html"><![CDATA[HackMD Raycast extension]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fonts (Raycast Store)]]></title>
-        <id>raycast://extensions/GastroGeek/google-fonts?source=webstore</id>
-        <link href="raycast://extensions/GastroGeek/google-fonts?source=webstore"/>
-        <updated>2022-08-03T16:15:26.797Z</updated>
-        <content type="html"><![CDATA[Search and use fonts from Google Fonts]]></content>
     </entry>
 </feed>
