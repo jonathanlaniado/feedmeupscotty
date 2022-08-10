@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-10T16:15:46.386Z</updated>
+    <updated>2022-08-10T17:18:52.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Vercel]]></title>
-        <id>raycast://extensions/MaxLeiter/vercast?source=webstore</id>
-        <link href="raycast://extensions/MaxLeiter/vercast?source=webstore"/>
-        <updated>2022-08-10T16:15:45.616Z</updated>
-        <content type="html"><![CDATA[View and modify your Vercel projects and deployments.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[iTranslate]]></title>
         <id>raycast://extensions/JinShi/itranslate?source=webstore</id>
@@ -74,5 +67,12 @@
         <link href="raycast://extensions/Yukai/hackmd?source=webstore"/>
         <updated>2022-08-03T18:14:35.170Z</updated>
         <content type="html"><![CDATA[HackMD Raycast extension]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fonts]]></title>
+        <id>raycast://extensions/GastroGeek/google-fonts?source=webstore</id>
+        <link href="raycast://extensions/GastroGeek/google-fonts?source=webstore"/>
+        <updated>2022-08-10T17:18:51.678Z</updated>
+        <content type="html"><![CDATA[Search and use fonts from Google Fonts]]></content>
     </entry>
 </feed>
