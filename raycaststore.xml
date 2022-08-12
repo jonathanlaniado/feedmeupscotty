@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-12T06:14:39.763Z</updated>
+    <updated>2022-08-12T07:11:11.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Shortcut]]></title>
+        <id>raycast://extensions/Yukai/shortcut?source=webstore</id>
+        <link href="raycast://extensions/Yukai/shortcut?source=webstore"/>
+        <updated>2022-08-12T07:11:10.404Z</updated>
+        <content type="html"><![CDATA[Raycast extension for Shortcut]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantastical]]></title>
         <id>raycast://extensions/devahschaefers/fantastical?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/syhchen/capture?source=webstore"/>
         <updated>2022-08-03T19:09:51.992Z</updated>
         <content type="html"><![CDATA[Quickly create records in Capture with Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackMD]]></title>
-        <id>raycast://extensions/Yukai/hackmd?source=webstore</id>
-        <link href="raycast://extensions/Yukai/hackmd?source=webstore"/>
-        <updated>2022-08-03T18:14:35.170Z</updated>
-        <content type="html"><![CDATA[HackMD Raycast extension]]></content>
     </entry>
 </feed>
