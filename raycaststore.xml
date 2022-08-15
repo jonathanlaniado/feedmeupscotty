@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-15T10:13:19.130Z</updated>
+    <updated>2022-08-15T11:10:04.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[M3O]]></title>
+        <id>raycast://extensions/andreaselia/m3o?source=webstore</id>
+        <link href="raycast://extensions/andreaselia/m3o?source=webstore"/>
+        <updated>2022-08-15T11:10:03.604Z</updated>
+        <content type="html"><![CDATA[Explore, discover and consume public APIs as simpler programmable building blocks.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abstract API]]></title>
         <id>raycast://extensions/andreaselia/abstract-api?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/raycast/google-workspace?source=webstore"/>
         <updated>2022-08-04T15:13:40.246Z</updated>
         <content type="html"><![CDATA[Access Google Drive files.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Focus]]></title>
-        <id>raycast://extensions/koinzhang/just-focus?source=webstore</id>
-        <link href="raycast://extensions/koinzhang/just-focus?source=webstore"/>
-        <updated>2022-08-04T08:18:19.811Z</updated>
-        <content type="html"><![CDATA[Control Just Focus via Raycast.]]></content>
     </entry>
 </feed>
