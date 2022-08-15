@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-15T11:10:04.289Z</updated>
+    <updated>2022-08-15T12:23:08.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Libraries.io (Raycast Store)]]></title>
+        <id>raycast://extensions/djpowers/libraries-io?source=webstore</id>
+        <link href="raycast://extensions/djpowers/libraries-io?source=webstore"/>
+        <updated>2022-08-15T12:23:08.159Z</updated>
+        <content type="html"><![CDATA[Look up packages and dependency information via Libraries.io]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3O (Raycast Store)]]></title>
         <id>raycast://extensions/andreaselia/m3o?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/raycast/zoom?source=webstore"/>
         <updated>2022-08-04T15:13:40.241Z</updated>
         <content type="html"><![CDATA[Start, schedule and join Zoom meetings.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Workspace (Raycast Store)]]></title>
-        <id>raycast://extensions/raycast/google-workspace?source=webstore</id>
-        <link href="raycast://extensions/raycast/google-workspace?source=webstore"/>
-        <updated>2022-08-04T15:13:40.246Z</updated>
-        <content type="html"><![CDATA[Access Google Drive files.]]></content>
     </entry>
 </feed>

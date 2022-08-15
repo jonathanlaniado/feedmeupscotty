@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-15T11:10:04.287Z</updated>
+    <updated>2022-08-15T12:23:08.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Libraries.io]]></title>
+        <id>raycast://extensions/djpowers/libraries-io?source=webstore</id>
+        <link href="raycast://extensions/djpowers/libraries-io?source=webstore"/>
+        <updated>2022-08-15T12:23:08.159Z</updated>
+        <content type="html"><![CDATA[Look up packages and dependency information via Libraries.io]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3O]]></title>
         <id>raycast://extensions/andreaselia/m3o?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/raycast/zoom?source=webstore"/>
         <updated>2022-08-04T15:13:40.241Z</updated>
         <content type="html"><![CDATA[Start, schedule and join Zoom meetings.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Workspace]]></title>
-        <id>raycast://extensions/raycast/google-workspace?source=webstore</id>
-        <link href="raycast://extensions/raycast/google-workspace?source=webstore"/>
-        <updated>2022-08-04T15:13:40.246Z</updated>
-        <content type="html"><![CDATA[Access Google Drive files.]]></content>
     </entry>
 </feed>
