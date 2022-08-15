@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-15T21:10:13.460Z</updated>
+    <updated>2022-08-15T22:13:04.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Libraries.io]]></title>
-        <id>raycast://extensions/djpowers/libraries-io?source=webstore</id>
-        <link href="raycast://extensions/djpowers/libraries-io?source=webstore"/>
-        <updated>2022-08-15T12:23:08.159Z</updated>
-        <content type="html"><![CDATA[Look up packages and dependency information via Libraries.io]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3O]]></title>
-        <id>raycast://extensions/andreaselia/m3o?source=webstore</id>
-        <link href="raycast://extensions/andreaselia/m3o?source=webstore"/>
-        <updated>2022-08-15T11:10:03.604Z</updated>
-        <content type="html"><![CDATA[Explore, discover and consume public APIs as simpler programmable building blocks.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abstract API]]></title>
-        <id>raycast://extensions/andreaselia/abstract-api?source=webstore</id>
-        <link href="raycast://extensions/andreaselia/abstract-api?source=webstore"/>
-        <updated>2022-08-15T10:13:18.580Z</updated>
-        <content type="html"><![CDATA[Automate routine dev work with Abstract's suite of APIs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shortcut]]></title>
-        <id>raycast://extensions/Yukai/shortcut?source=webstore</id>
-        <link href="raycast://extensions/Yukai/shortcut?source=webstore"/>
-        <updated>2022-08-12T07:11:10.404Z</updated>
-        <content type="html"><![CDATA[Raycast extension for Shortcut]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantastical]]></title>
-        <id>raycast://extensions/devahschaefers/fantastical?source=webstore</id>
-        <link href="raycast://extensions/devahschaefers/fantastical?source=webstore"/>
-        <updated>2022-08-11T06:14:36.423Z</updated>
-        <content type="html"><![CDATA[Create Fantastical events and reminders using Fantasticals natural language processing.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iTranslate]]></title>
-        <id>raycast://extensions/JinShi/itranslate?source=webstore</id>
-        <link href="raycast://extensions/JinShi/itranslate?source=webstore"/>
-        <updated>2022-08-10T13:28:31.872Z</updated>
-        <content type="html"><![CDATA[A translation extension that can customize translation service providers and support multiple languages]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGO]]></title>
-        <id>raycast://extensions/kaichi/raycast-svgo?source=webstore</id>
-        <link href="raycast://extensions/kaichi/raycast-svgo?source=webstore"/>
-        <updated>2022-08-10T06:15:57.440Z</updated>
-        <content type="html"><![CDATA[Optimize SVG from the clipboard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby Evaluate]]></title>
-        <id>raycast://extensions/obahareth/ruby-evaluate?source=webstore</id>
-        <link href="raycast://extensions/obahareth/ruby-evaluate?source=webstore"/>
-        <updated>2022-08-09T07:10:56.354Z</updated>
-        <content type="html"><![CDATA[Evaluate Ruby code on-the-fly]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pika]]></title>
-        <id>raycast://extensions/rishi/pika?source=webstore</id>
-        <link href="raycast://extensions/rishi/pika?source=webstore"/>
-        <updated>2022-08-08T13:37:13.287Z</updated>
-        <content type="html"><![CDATA[Beautify screenshots quickly using pika.style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom]]></title>
-        <id>raycast://extensions/raycast/zoom?source=webstore</id>
-        <link href="raycast://extensions/raycast/zoom?source=webstore"/>
-        <updated>2022-08-04T15:13:40.241Z</updated>
-        <content type="html"><![CDATA[Start, schedule and join Zoom meetings.]]></content>
-    </entry>
+    <icon>https://www.raycast.com/favicon.ico</icon>
 </feed>
