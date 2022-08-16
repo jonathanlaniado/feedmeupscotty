@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-16T13:26:54.200Z</updated>
+    <updated>2022-08-16T14:11:56.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Lucide Icons Search]]></title>
+        <id>raycast://extensions/basil/lucide-icons?source=webstore</id>
+        <link href="raycast://extensions/basil/lucide-icons?source=webstore"/>
+        <updated>2022-08-16T14:11:56.076Z</updated>
+        <content type="html"><![CDATA[View the Lucide icon set.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Libraries.io]]></title>
         <id>raycast://extensions/djpowers/libraries-io?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/rishi/pika?source=webstore"/>
         <updated>2022-08-15T23:12:22.003Z</updated>
         <content type="html"><![CDATA[Beautify screenshots quickly using pika.style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom]]></title>
-        <id>raycast://extensions/raycast/zoom?source=webstore</id>
-        <link href="raycast://extensions/raycast/zoom?source=webstore"/>
-        <updated>2022-08-15T23:12:22.003Z</updated>
-        <content type="html"><![CDATA[Start, schedule and join Zoom meetings.]]></content>
     </entry>
 </feed>
