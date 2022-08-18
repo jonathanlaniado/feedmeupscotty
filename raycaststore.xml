@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-18T04:57:46.043Z</updated>
+    <updated>2022-08-18T05:33:24.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YouTube Music]]></title>
+        <id>raycast://extensions/danieldbird/youtube-music?source=webstore</id>
+        <link href="raycast://extensions/danieldbird/youtube-music?source=webstore"/>
+        <updated>2022-08-18T05:33:24.297Z</updated>
+        <content type="html"><![CDATA[Control the YouTube Music tab in browser with your keyboard.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rain Radars]]></title>
         <id>raycast://extensions/danieldbird/rain-radars?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/JinShi/itranslate?source=webstore"/>
         <updated>2022-08-15T23:12:21.995Z</updated>
         <content type="html"><![CDATA[A translation extension that can customize translation service providers and support multiple languages]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGO]]></title>
-        <id>raycast://extensions/kaichi/raycast-svgo?source=webstore</id>
-        <link href="raycast://extensions/kaichi/raycast-svgo?source=webstore"/>
-        <updated>2022-08-15T23:12:21.997Z</updated>
-        <content type="html"><![CDATA[Optimize SVG from the clipboard]]></content>
     </entry>
 </feed>
