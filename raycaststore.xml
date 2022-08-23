@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-23T09:12:19.124Z</updated>
+    <updated>2022-08-23T10:13:38.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Downloads Manager]]></title>
+        <id>raycast://extensions/thomas/downloads-manager?source=webstore</id>
+        <link href="raycast://extensions/thomas/downloads-manager?source=webstore"/>
+        <updated>2022-08-23T10:13:37.775Z</updated>
+        <content type="html"><![CDATA[Search and organize your downloads]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ColorSlurp]]></title>
         <id>raycast://extensions/Jordan-Ellis/colorslurp?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/Yukai/shortcut?source=webstore"/>
         <updated>2022-08-15T23:12:21.991Z</updated>
         <content type="html"><![CDATA[Raycast extension for Shortcut]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantastical]]></title>
-        <id>raycast://extensions/devahschaefers/fantastical?source=webstore</id>
-        <link href="raycast://extensions/devahschaefers/fantastical?source=webstore"/>
-        <updated>2022-08-15T23:12:21.994Z</updated>
-        <content type="html"><![CDATA[Create Fantastical events and reminders using Fantasticals natural language processing.]]></content>
     </entry>
 </feed>
