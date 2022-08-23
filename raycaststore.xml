@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-23T20:12:30.347Z</updated>
+    <updated>2022-08-23T21:10:46.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Statamic Documentation Search]]></title>
+        <id>raycast://extensions/andrebreia/statamic-docs?source=webstore</id>
+        <link href="raycast://extensions/andrebreia/statamic-docs?source=webstore"/>
+        <updated>2022-08-23T21:10:45.933Z</updated>
+        <content type="html"><![CDATA[This extension allows you to search through the Statamic docs directly from Raycast.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search Ansible Documentation]]></title>
+        <id>raycast://extensions/Kcih4518/search-ansible-documentation?source=webstore</id>
+        <link href="raycast://extensions/Kcih4518/search-ansible-documentation?source=webstore"/>
+        <updated>2022-08-23T21:10:45.934Z</updated>
+        <content type="html"><![CDATA[Search Ansible Offical Documentation]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monse - Banking In Raycast]]></title>
         <id>raycast://extensions/Falcon/monse?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/djpowers/libraries-io?source=webstore"/>
         <updated>2022-08-15T23:12:21.980Z</updated>
         <content type="html"><![CDATA[Look up packages and dependency information via Libraries.io]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3O]]></title>
-        <id>raycast://extensions/andreaselia/m3o?source=webstore</id>
-        <link href="raycast://extensions/andreaselia/m3o?source=webstore"/>
-        <updated>2022-08-15T23:12:21.989Z</updated>
-        <content type="html"><![CDATA[Explore, discover and consume public APIs as simpler programmable building blocks.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abstract API]]></title>
-        <id>raycast://extensions/andreaselia/abstract-api?source=webstore</id>
-        <link href="raycast://extensions/andreaselia/abstract-api?source=webstore"/>
-        <updated>2022-08-15T23:12:21.990Z</updated>
-        <content type="html"><![CDATA[Automate routine dev work with Abstract's suite of APIs]]></content>
     </entry>
 </feed>
