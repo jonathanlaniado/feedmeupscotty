@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-24T01:03:42.133Z</updated>
+    <updated>2022-08-24T04:02:59.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FileZilla]]></title>
+        <id>raycast://extensions/naqet/filezilla?source=webstore</id>
+        <link href="raycast://extensions/naqet/filezilla?source=webstore"/>
+        <updated>2022-08-24T04:02:59.449Z</updated>
+        <content type="html"><![CDATA[Connect to the FTP/SFTP server via FileZilla by just using your keyboard!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statamic Documentation Search]]></title>
         <id>raycast://extensions/andrebreia/statamic-docs?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/basil/lucide-icons?source=webstore"/>
         <updated>2022-08-16T14:11:56.076Z</updated>
         <content type="html"><![CDATA[View the Lucide icon set.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libraries.io]]></title>
-        <id>raycast://extensions/djpowers/libraries-io?source=webstore</id>
-        <link href="raycast://extensions/djpowers/libraries-io?source=webstore"/>
-        <updated>2022-08-15T23:12:21.980Z</updated>
-        <content type="html"><![CDATA[Look up packages and dependency information via Libraries.io]]></content>
     </entry>
 </feed>
