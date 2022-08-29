@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-29T04:09:56.749Z</updated>
+    <updated>2022-08-29T06:03:18.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GHPic]]></title>
+        <id>raycast://extensions/xiangsanliu/gh-pic?source=webstore</id>
+        <link href="raycast://extensions/xiangsanliu/gh-pic?source=webstore"/>
+        <updated>2022-08-29T06:03:17.452Z</updated>
+        <content type="html"><![CDATA[A simple extension of Raycast to upload images to GitHub from clipboard.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playwright Documentation]]></title>
         <id>raycast://extensions/AndrewUsher/playwright-docs?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/Falcon/monse?source=webstore"/>
         <updated>2022-08-23T12:22:23.677Z</updated>
         <content type="html"><![CDATA[Connect your bank account and see latest incomes, expenses, and details.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downloads Manager]]></title>
-        <id>raycast://extensions/thomas/downloads-manager?source=webstore</id>
-        <link href="raycast://extensions/thomas/downloads-manager?source=webstore"/>
-        <updated>2022-08-23T10:13:37.775Z</updated>
-        <content type="html"><![CDATA[Search and organize your downloads]]></content>
     </entry>
 </feed>
