@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-29T13:35:02.418Z</updated>
+    <updated>2022-08-29T14:13:12.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Readymetrics]]></title>
+        <id>raycast://extensions/raycast/readymetrics?source=webstore</id>
+        <link href="raycast://extensions/raycast/readymetrics?source=webstore"/>
+        <updated>2022-08-29T14:13:11.565Z</updated>
+        <content type="html"><![CDATA[Lists upcoming and past check-ins in Readymetrics]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android]]></title>
         <id>raycast://extensions/mibrahimdev/android?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/kawamataryo/esa-search?source=webstore"/>
         <updated>2022-08-24T08:15:08.086Z</updated>
         <content type="html"><![CDATA[Search for posts by your team's esa. No official esa.io product.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FileZilla]]></title>
-        <id>raycast://extensions/naqet/filezilla?source=webstore</id>
-        <link href="raycast://extensions/naqet/filezilla?source=webstore"/>
-        <updated>2022-08-24T04:02:59.449Z</updated>
-        <content type="html"><![CDATA[Connect to the FTP/SFTP server via FileZilla by just using your keyboard!]]></content>
     </entry>
 </feed>
