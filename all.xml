@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-29T06:03:18.214Z</updated>
+    <updated>2022-08-29T07:18:15.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[OSS Browser (Raycast Store)]]></title>
+        <id>raycast://extensions/JinShi/oss-browser?source=webstore</id>
+        <link href="raycast://extensions/JinShi/oss-browser?source=webstore"/>
+        <updated>2022-08-29T07:18:14.773Z</updated>
+        <content type="html"><![CDATA[Browse and manage Aliyun Object Storage Service]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODIN (Raycast Store)]]></title>
+        <id>raycast://extensions/aamoussa97/odin?source=webstore</id>
+        <link href="raycast://extensions/aamoussa97/odin?source=webstore"/>
+        <updated>2022-08-29T07:18:14.783Z</updated>
+        <content type="html"><![CDATA[Retrieves emergency alarms from Online Dataregistrerings- og Indberetningssystem (ODIN), a system by The Danish Emergency Management Agency (DEMA), through 'www.odin.dk/112puls'.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GHPic (Raycast Store)]]></title>
         <id>raycast://extensions/xiangsanliu/gh-pic?source=webstore</id>
@@ -59,19 +73,5 @@
         <link href="raycast://extensions/andrebreia/statamic-docs?source=webstore"/>
         <updated>2022-08-23T21:10:45.933Z</updated>
         <content type="html"><![CDATA[This extension allows you to search through the Statamic docs directly from Raycast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search Ansible Documentation (Raycast Store)]]></title>
-        <id>raycast://extensions/Kcih4518/search-ansible-documentation?source=webstore</id>
-        <link href="raycast://extensions/Kcih4518/search-ansible-documentation?source=webstore"/>
-        <updated>2022-08-23T21:10:45.934Z</updated>
-        <content type="html"><![CDATA[Search Ansible Offical Documentation]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monse - Banking In Raycast (Raycast Store)]]></title>
-        <id>raycast://extensions/Falcon/monse?source=webstore</id>
-        <link href="raycast://extensions/Falcon/monse?source=webstore"/>
-        <updated>2022-08-23T12:22:23.677Z</updated>
-        <content type="html"><![CDATA[Connect your bank account and see latest incomes, expenses, and details.]]></content>
     </entry>
 </feed>
