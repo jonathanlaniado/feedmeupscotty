@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-30T12:25:11.626Z</updated>
+    <updated>2022-08-30T13:37:03.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Heroicons]]></title>
+        <id>raycast://extensions/torben030/heroicons?source=webstore</id>
+        <link href="raycast://extensions/torben030/heroicons?source=webstore"/>
+        <updated>2022-08-30T13:37:02.410Z</updated>
+        <content type="html"><![CDATA[Search and preview Heroicons]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyPNG]]></title>
+        <id>raycast://extensions/kawamataryo/tinypng?source=webstore</id>
+        <link href="raycast://extensions/kawamataryo/tinypng?source=webstore"/>
+        <updated>2022-08-30T13:37:02.410Z</updated>
+        <content type="html"><![CDATA[Compress the selected images in Finder with TinyPNG.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Readymetrics]]></title>
         <id>raycast://extensions/raycast/readymetrics?source=webstore</id>
@@ -60,19 +74,5 @@
         <link href="raycast://extensions/JiriTrecak/supernova?source=webstore"/>
         <updated>2022-08-25T09:11:52.447Z</updated>
         <content type="html"><![CDATA[Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in your tools, without switching context.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLmoji]]></title>
-        <id>raycast://extensions/Hydrapse/dlmoji?source=webstore</id>
-        <link href="raycast://extensions/Hydrapse/dlmoji?source=webstore"/>
-        <updated>2022-08-24T12:23:15.248Z</updated>
-        <content type="html"><![CDATA[Semantic search for Emojis, powered by Deep Learning and intelligent APIs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[esa Search]]></title>
-        <id>raycast://extensions/kawamataryo/esa-search?source=webstore</id>
-        <link href="raycast://extensions/kawamataryo/esa-search?source=webstore"/>
-        <updated>2022-08-24T08:15:08.086Z</updated>
-        <content type="html"><![CDATA[Search for posts by your team's esa. No official esa.io product.]]></content>
     </entry>
 </feed>
