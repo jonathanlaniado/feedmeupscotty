@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonathanlaniado.github.io/feedmeupscotty/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-31T04:26:27.965Z</updated>
+    <updated>2022-08-31T06:21:26.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NFT Search (Raycast Store)]]></title>
+        <id>raycast://extensions/Glaze/nft-search?source=webstore</id>
+        <link href="raycast://extensions/Glaze/nft-search?source=webstore"/>
+        <updated>2022-08-31T06:21:26.319Z</updated>
+        <content type="html"><![CDATA[Seraching NFT real-time floor price and info by NFT collection name]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heroicons (Raycast Store)]]></title>
         <id>raycast://extensions/torben030/heroicons?source=webstore</id>
@@ -66,12 +73,5 @@
         <link href="raycast://extensions/shubzkothekar/open-in-visual-studio-code?source=webstore"/>
         <updated>2022-08-26T18:14:16.402Z</updated>
         <content type="html"><![CDATA[Open current Finder directory, selected folder or file in Visual Studio Code.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernova (Raycast Store)]]></title>
-        <id>raycast://extensions/JiriTrecak/supernova?source=webstore</id>
-        <link href="raycast://extensions/JiriTrecak/supernova?source=webstore"/>
-        <updated>2022-08-25T09:11:52.447Z</updated>
-        <content type="html"><![CDATA[Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in your tools, without switching context.]]></content>
     </entry>
 </feed>

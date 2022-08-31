@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.raycast.com/recently-added</id>
     <title>Raycast Store</title>
-    <updated>2022-08-31T04:26:27.968Z</updated>
+    <updated>2022-08-31T06:21:26.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.raycast.com/assets/favicon-6d5c845af6b93d392052ffc54c2521a21b0f31dfec178f85902a60b2bf04037e.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NFT Search]]></title>
+        <id>raycast://extensions/Glaze/nft-search?source=webstore</id>
+        <link href="raycast://extensions/Glaze/nft-search?source=webstore"/>
+        <updated>2022-08-31T06:21:26.319Z</updated>
+        <content type="html"><![CDATA[Seraching NFT real-time floor price and info by NFT collection name]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heroicons]]></title>
         <id>raycast://extensions/torben030/heroicons?source=webstore</id>
@@ -67,12 +74,5 @@
         <link href="raycast://extensions/shubzkothekar/open-in-visual-studio-code?source=webstore"/>
         <updated>2022-08-26T18:14:16.402Z</updated>
         <content type="html"><![CDATA[Open current Finder directory, selected folder or file in Visual Studio Code.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernova]]></title>
-        <id>raycast://extensions/JiriTrecak/supernova?source=webstore</id>
-        <link href="raycast://extensions/JiriTrecak/supernova?source=webstore"/>
-        <updated>2022-08-25T09:11:52.447Z</updated>
-        <content type="html"><![CDATA[Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in your tools, without switching context.]]></content>
     </entry>
 </feed>
